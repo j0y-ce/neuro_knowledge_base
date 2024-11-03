@@ -17,17 +17,17 @@ subcategory-three:
   parent-category-name: Using Subcategories
   description: This is your third subcategory!
 subcategory-four:
-   name: About Subcategory
+   name: Subcategory One
    parent-category: about
    parent-category-name: About
    description: This is your first subcategory for about
 subcategory-five:
-   name: About Subcategory
+   name: Subcategory Two
    parent-category: about
    parent-category-name: About
    description: This is your 2nd subcategory for about
 subcategory-six:
-   name: About Subcategory
+   name: Subcategory Three
    parent-category: about
    parent-category-name: About
    description: This is your 3rd subcategory for about
