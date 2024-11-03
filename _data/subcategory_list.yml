@@ -16,9 +16,7 @@ subcategory-three:
   parent-category: using-subcategories
   parent-category-name: Using Subcategories
   description: This is your third subcategory!
-
-
- subcategory-four:
+subcategory-four:
    name: About Subcategory
    parent-category: about
    parent-category-name: About
