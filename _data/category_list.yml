@@ -10,3 +10,12 @@ using-odin:
 customizing-odin:
   name: Customizing Odin
   description: Welcome to Odin, time to get started
+about:
+  name: About
+  description: About Description
+content:
+  name: Content
+  description: Content Description
+concept-maps:
+  name: Concept Maps
+  description: Concept Maps Description
