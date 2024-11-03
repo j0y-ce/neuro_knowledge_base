@@ -21,3 +21,13 @@ subcategory-four:
    parent-category: about
    parent-category-name: About
    description: This is your first subcategory for about
+subcategory-five:
+   name: About Subcategory
+   parent-category: about
+   parent-category-name: About
+   description: This is your 2nd subcategory for about
+subcategory-six:
+   name: About Subcategory
+   parent-category: about
+   parent-category-name: About
+   description: This is your 3rd subcategory for about
