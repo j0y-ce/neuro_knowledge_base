@@ -4,7 +4,7 @@ title: "Test About Post"
 date: 2024-11-03 08:44:38 -0400
 category: about
 author: mac
-short-description: Bohohohohoh! Ctrl+F to find this.
+short-description: Bohohohohoh! Search to find this.
 ---
 
 -----

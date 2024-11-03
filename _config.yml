@@ -29,8 +29,8 @@ use_authors: true #Set this to false to disable showing post authors
 
 brand_logo: logo.png
 brand_name: Odin
-header: Neuro Blurb (Ctrl+F in project to find this)
-subheader: Subheader Blurb (Ctrl+F in project to find this)
+header: Neuro Blurb. CtrlF in project to find this
+subheader: Subheader Blurb. CtrlF in project to find this)
 
 meta_image: odin-meta.png
 
