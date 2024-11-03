@@ -16,17 +16,17 @@ subcategory-three:
   parent-category: using-subcategories
   parent-category-name: Using Subcategories
   description: This is your third subcategory!
-subcategory-content-one:
+subcategory-content-1:
    name: Content Subcategory One
    parent-category: content
    parent-category-name: Content
    description: This is your first subcategory for content
-subcategory-content-two:
+subcategory-content-2:
    name: Content Subcategory Two
    parent-category: content
    parent-category-name: Content
    description: This is your 2nd subcategory for content
-subcategory-content-three:
+subcategory-content-3:
    name: Content Subcategory Three
    parent-category: content
    parent-category-name: Content
