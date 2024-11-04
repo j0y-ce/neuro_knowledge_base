@@ -1,15 +1,15 @@
 #This file defines all the categories you are using
 
 
-using-subcategories:
-  name: Using Subcategories
-  description: Learn to use subcategories!
-using-odin:
-  name: Using Odin
-  description: Welcome to Odin, time to get started
-customizing-odin:
-  name: Customizing Odin
-  description: Welcome to Odin, time to get started
+#using-subcategories:
+#  name: Using Subcategories
+#  description: Learn to use subcategories!
+#using-odin:
+#  name: Using Odin
+#  description: Welcome to Odin, time to get started
+#customizing-odin:
+#  name: Customizing Odin
+#  description: Welcome to Odin, time to get started
 about:
   name: About
   description: About Description
