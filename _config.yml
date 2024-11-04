@@ -18,19 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Odin - A Jekyll Knowledge Base Theme
-description: Odin is a simple to setup and use Jekyll theme for help desks and knowledge bases. Hosts for free on Github Pages!
+title: Neuro Database Title by Joyce
+description: Created to host neurological health information!
 baseurl: /neuro_knowledge_base # the subpath of your site, e.g. /support
-url: https://austinchowong.github.io # the base hostname AND PROTOCOL for your site, e.g. http://example.com
+url: https://austinchowong.github.io # IMPORTANT! change this to whatever the base url of your site is.
 permalink: /:categories/:title
 
 content_type: Knowledge Base #Define whether this is a knowledge base, help center, or something else
 use_authors: true #Set this to false to disable showing post authors
 
 brand_logo: logo.png
-brand_name: Odin
-header: How can we help you?
-subheader: Support and documentation for Odin
+brand_name: NeuroDatabase
+header: Header Text - How can we help?
+subheader: Support and documentation for Neuro
 
 meta_image: odin-meta.png
 
