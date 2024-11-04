@@ -3,7 +3,7 @@ layout: post
 title: "Changing Odin Fonts"
 date: 2019-11-05 08:44:38 -0400
 category: customizing-odin
-author: mac
+author: joyce
 short-description: Change Odin fonts from the defaults
 ---
 

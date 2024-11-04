@@ -3,7 +3,7 @@ layout: post
 title: "Test Post 2 in Concept Maps"
 date: 2024-11-02 08:44:38 -0400
 category: concept-maps
-author: mac
+author: joyce
 short-description: test description nyoho
 ---
 
