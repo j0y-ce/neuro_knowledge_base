@@ -27,12 +27,12 @@ permalink: /:categories/:title
 content_type: Knowledge Base #Define whether this is a knowledge base, help center, or something else
 use_authors: true #Set this to false to disable showing post authors
 
-brand_logo: logo.png
+brand_logo: whitelab_logo.jpg  #logo.png
 brand_name: NeuroDatabase
 header: Header Text - How can we help?
 subheader: Support and documentation for Neuro
 
-meta_image: odin-meta.png
+meta_image: whitelab_logo.jpg #odin-meta.png
 
 # Social Links
 twitter_username: TheTeaGuns
