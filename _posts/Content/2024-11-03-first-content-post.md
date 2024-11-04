@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Subcategory Test Post 1" #make this unique for each post
+title: "MRI Subcategory Post 1" #make this unique for each post
 date: 2019-11-05 08:44:38 -0400 # make this a past or present date for it to show
 category: subcategory-content-1
 subcategory:
