@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Neuro Database Title by Joyce
-description: Created to host neurological health information!
-baseurl: /neuro_knowledge_base # the subpath of your site, e.g. /support
-url: https://austinchowong.github.io # IMPORTANT! change this to whatever the base url of your site is.
-permalink: /:categories/:title
+title: Neuro Database Title by Joyce # feel free to change
+description: Created to host neurological health information! # feel free to change
+baseurl: /neuro_knowledge_base # the subpath of your site, e.g. /support. # should match name of your github repo
+url: https://austinchowong.github.io # IMPORTANT! change this to whatever the base url of your site is. e.g. your github.io page
+permalink: /:categories/:title # don't touch this
 
 content_type: Knowledge Base #Define whether this is a knowledge base, help center, or something else
 use_authors: true #Set this to false to disable showing post authors
 
-brand_logo: whitelab_logo.jpg  #logo.png
+brand_logo: whitelab_logo.jpg  #logo.png . IMPORTANT! put images in the assets folder!
 brand_name: NeuroDatabase
 header: Header Text - How can we help?
 subheader: Support and documentation for Neuro
