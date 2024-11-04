@@ -17,17 +17,22 @@
 #  parent-category-name: Using Subcategories
 #  description: This is your third subcategory!
 subcategory-content-1:
-   name: Content Subcategory One
+   name: Basics of MRI
    parent-category: content
    parent-category-name: Content
    description: This is your first subcategory for content
 subcategory-content-2:
-   name: Content Subcategory Two
+   name: Neuroanatomy 101
    parent-category: content
    parent-category-name: Content
    description: This is your 2nd subcategory for content
 subcategory-content-3:
-   name: Content Subcategory Three
+   name: Normal Brain MRI
    parent-category: content
    parent-category-name: Content
    description: This is your 3rd subcategory for content
+subcategory-content-4:
+   name: Pathological Processes in MRI
+   parent-category: content
+   parent-category-name: Content
+   description: This is your first subcategory for content
