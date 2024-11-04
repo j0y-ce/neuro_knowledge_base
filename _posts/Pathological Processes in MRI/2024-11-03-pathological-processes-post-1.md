@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Test Post Pathological Processes in MRI"
+title: "Pathological Processes in MRI Post 1"
 date: 2024-11-03 08:44:38 -0400
 category: subcategory-content-4
 author: joyce

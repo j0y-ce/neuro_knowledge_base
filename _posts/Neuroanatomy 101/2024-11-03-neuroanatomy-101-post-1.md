@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Test Post Neuroanatomy"
+title: "Neuroanatomy Test Post"
 date: 2024-11-03 08:44:38 -0400
 category: subcategory-content-2
 author: joyce
