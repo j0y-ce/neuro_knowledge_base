@@ -2,8 +2,8 @@
 layout: post
 title: "Subcategory Test Post 1"
 date: 2019-11-05 08:44:38 -0400
-category: subcategory-content-1
-subcategory:
+category: content
+subcategory: subcategory-content-1
 author: mac
 short-description: A quick overview of Odin to get you started
 ---
