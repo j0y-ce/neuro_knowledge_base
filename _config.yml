@@ -21,7 +21,7 @@
 title: Neuro Database Title by Joyce # feel free to change
 description: Created to host neurological health information! # feel free to change
 baseurl: /neuro_knowledge_base # the subpath of your site, e.g. /support. # should match name of your github repo
-url: https://austinchowong.github.io # IMPORTANT! change this to whatever the base url of your site is. e.g. your github.io page
+url: https://j0y-ce.github.io # IMPORTANT! change this to whatever the base url of your site is. e.g. your github.io page
 permalink: /:categories/:title # don't touch this
 
 content_type: Knowledge Base #Define whether this is a knowledge base, help center, or something else
