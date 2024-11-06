@@ -44,11 +44,11 @@ instagram_username:
 
 
 # Navigation
-nav_item_one: Github
-nav_item_one_link: #insert link to GitHub account
+nav_item_one: White Lab
+nav_item_one_link: https://www.lapianalab.com/
 
-nav_item_two: Twitter
-nav_item_two_link: #insert link to Twitter account
+nav_item_two: #second external affiliation
+nav_item_two_link: #insert link to second external affiliation
 
 nav_item_three: #
 nav_item_three_link: #
