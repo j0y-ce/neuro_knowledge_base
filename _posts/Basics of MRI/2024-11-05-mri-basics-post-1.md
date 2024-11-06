@@ -20,26 +20,32 @@ In T1, signal intensity goes from:
 ![Image]({{ site.baseurl }}/assets/T1-density-scale.png){: width="800" }
 
 For CNS structures, white matter has a higher signal intensity than grey matter. In other words, grey matter literally looks greyer on T1 MR than white matter.
+
+
 T1-weighted MRIs also serve as the basis for contrast-enhanced MRI.
 Most contrast agents used in MRI are gadolinium-based and can be used to appreciate vessel structures, tumor location, areas of inflammation/infection, and more. The contrast is injected intravenously and make vessels (consequently, areas of higher perfusion) appear more hyperintense.
 A modified T1 sequence can be performed to decrease the signal intensity of ordinarily hyperintense fat. This is called ‘fat suppression’ and is frequently performed in conjunction to gadolinium enhancement in order to make the contrast-enhanced structures easier to appreciate.
 
 
 
-<a href="{{ site.baseurl }}/subcategory-content-1/MRI Sequences- T2">T2</a>
+<a href="https://radiopaedia.org/articles/hyperintense-on-t1-weighted-images-mnemonic-1?lang=us">Mnemonics for what is hyperintense on T1</a>
+
+
+<a href="https://radiopaedia.org/articles/t1-weighted-image?lang=us">Resource</a>
 
 
 
-<a href="{{ site.baseurl }}/content">Link to document inside this website</a>
+<a href="{{ site.baseurl }}/subcategory-content-1/2024-11-05-mri-basics-post-2">T2</a>
 
 
-<a href="{{ site.baseurl }}/subcategory-content-1">Link to document inside this website</a>
+
+<a href="{{ site.baseurl }}/content">Back to Content</a>
 
 
-<a href="{{ site.baseurl }}/subcategory-content-1/first-content-post">Link to document inside this website</a>
+<a href="{{ site.baseurl }}/subcategory-content-1">Back to MRI Basics</a> #link doesn't work
 
 
-<a href="https://en.namu.wiki/w/Find%20Love%20or%20Die%20Trying">Link to webpage outside this website</a>
+
 
 <!-- need to double enter to start new lines -->
 <!-- need to use the site baseurl in the curly brackets to make internal links work seamlessly -->
