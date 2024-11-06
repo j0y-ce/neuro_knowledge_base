@@ -29,26 +29,26 @@ use_authors: false #Set this to false to disable showing post authors
 
 brand_logo: logo.png  #logo.png . IMPORTANT! put images in the assets folder!
 brand_name: NeuroDatabase
-header: Header Text - How can we help?
-subheader: Support and documentation for Neuro
+header: Brain Imaging Essentials
+subheader: An Open-Science Introduction Course to Brain MRI
 
 meta_image: logo.png #odin-meta.png
 
 # Social Links
-twitter_username: TheTeaGuns
+twitter_username: 
 facebook_page:
-github_username: TeaGuns
+github_username: 
 email: m@credd.in
 linkedin_page:
 instagram_username:
 
 
-# Navivation
+# Navigation
 nav_item_one: Github
-nav_item_one_link: https://github.com/TeaGuns/odin
+nav_item_one_link: #insert link to GitHub account
 
 nav_item_two: Twitter
-nav_item_two_link: https://twitter.com/TheTeaGuns
+nav_item_two_link: #insert link to Twitter account
 
 nav_item_three: #
 nav_item_three_link: #
@@ -57,15 +57,15 @@ nav_button: Return to Home
 nav_button_link: https://j0y-ce.github.io/neuro_knowledge_base/
 
 # More Help
-help_one_title: Odin Bugs
-help_one_content: If you find any bugs or problems with this theme, please open an issue over on Github.
-help_one_button: Github
-help_one_link: https://github.com/TeaGuns/odin/issues
+help_one_title: Collaboration
+help_one_content: If you are interested in collaborating with us to use this curriculum at your institution, feel free to reach us through this email!
+help_one_button: Email
+help_one_link: https://github.com/TeaGuns/odin/issues  #change to a mailto link to an email
 
-help_two_title: Twitter
-help_two_content: Feel free to tweet at me if you have suggestions for Odin. Or if you just want to say hi.
-help_two_button: Twitter
-help_two_link: https://twitter.com/theteaguns
+help_two_title: Feedback
+help_two_content: We love hearing from you! Let us know what your experience was and we can do better
+help_two_button: Form
+help_two_link: https://forms.office.com/Pages/ResponsePage.aspx?id=cZYxzedSaEqvqfz4-J8J6i673tKSJ-pCgx6_lt_OiNFUMUZZMzI1QUJRQkxCRUFEUzlYMDEwVkpXMC4u
 
 # Build settings
 theme: minima
