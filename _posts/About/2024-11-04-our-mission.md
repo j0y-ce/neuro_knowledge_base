@@ -5,7 +5,6 @@ date: 2024-11-03 08:44:38 -0400
 category: about
 author: joyce
 short-description: test description
-youtubeID: opy_y0dkwmk?si=CMM_vULdiHzqkYBp
 ---
 
 -----
@@ -14,4 +13,4 @@ The easiest way to change the logo used by Odin is to replace the `logo.png` fil
 
 After editing your logo file, run `jekyll serve` to see the changes locally. If you're satisfied with your changes, run `jekyll build` and then push your changes to your repo.
 
-{% include youtubePlayer.html id=page.youtubeId %}
+{% include youtubePlayer.html id=opy_y0dkwmk %}
