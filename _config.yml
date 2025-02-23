@@ -35,9 +35,9 @@ subheader: An Open-Science Introduction Course to Brain MRI
 meta_image: logo.png #odin-meta.png
 
 # Social Links
-twitter_username: 
+twitter_username:
 facebook_page:
-github_username: 
+github_username:
 email: joyce.li2@mail.mcgill.ca
 linkedin_page:
 instagram_username:
@@ -60,7 +60,7 @@ nav_button_link: https://j0y-ce.github.io/neuro_knowledge_base/
 help_one_title: Collaboration
 help_one_content: If you are interested in collaborating with us to use this curriculum at your institution, feel free to reach us through this email!
 help_one_button: Email
-help_one_link: https://github.com/TeaGuns/odin/issues  #change to a mailto link to an email
+help_one_link: mailto:{{ site.email }} #"><i class='uil uil-envelope' target="_blank"
 
 help_two_title: Feedback
 help_two_content: We love hearing from you! Let us know what your experience was and we can do better
