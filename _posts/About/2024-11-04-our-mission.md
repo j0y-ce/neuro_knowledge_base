@@ -23,11 +23,6 @@ After editing your logo file, run `jekyll serve` to see the changes locally. If 
   position: relative;
 }
 
-/* Hide the images by default */
-.mySlides {
-  display: none;
-}
-
 /* Add a pointer when hovering over the thumbnail images */
 .cursor {
   cursor: pointer;
@@ -133,7 +128,6 @@ After editing your logo file, run `jekyll serve` to see the changes locally. If 
   <div class="caption-container">
     <p id="caption"></p>
   </div>
-
 
 </div>
 
