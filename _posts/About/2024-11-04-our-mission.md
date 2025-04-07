@@ -16,18 +16,7 @@ After editing your logo file, run `jekyll serve` to see the changes locally. If 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YZPmfajMcyw?si=cs5ALcSQfGfY2roO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <style>
-body {
-  font-family: Arial;
-  margin: 0;
-}
 
-* {
-  box-sizing: border-box;
-}
-
-img {
-  vertical-align: middle;
-}
 
 /* Position the image container (needed to position the left and right arrows) */
 .container {
@@ -96,16 +85,6 @@ img {
   clear: both;
 }
 
-/* Six columns side by side */
-.column {
-  float: left;
-  width: 16.66%;
-}
-
-/* Add a transparency effect for thumnbail images */
-.demo {
-  opacity: 0.6;
-}
 
 .active,
 .demo:hover {
