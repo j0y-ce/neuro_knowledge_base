@@ -18,8 +18,8 @@ After editing your logo file, run `jekyll serve` to see the changes locally. If 
 <div class="container">
   <div class="mySlides">
     <div class="numbertext">1 / 6</div>
-    <img src="img_woods_wide.jpg" style="width:100%">
-  </div>
+    <img src="img_5terre_wide.jpg" style="width:100%">
+
 
   <div class="mySlides">
     <div class="numbertext">2 / 6</div>
