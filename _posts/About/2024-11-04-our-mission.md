@@ -127,22 +127,22 @@ After editing your logo file, run `jekyll serve` to see the changes locally. If 
 
   <div class="row">
     <div class="column">
-      <img class="demo cursor" style="width:100%" onclick="currentSlide(1)" alt="A">
+      <img class="demo cursor" img="{{ site.baseurl }}/assets/test.png" style="width:100%" onclick="currentSlide(1)" alt="A">
     </div>
     <div class="column">
-      <img class="demo cursor" style="width:100%" onclick="currentSlide(2)" alt="B">
+      <img class="demo cursor" img="{{ site.baseurl }}/assets/test.png" style="width:100%" onclick="currentSlide(2)" alt="B">
     </div>
     <div class="column">
-      <img class="demo cursor" style="width:100%" onclick="currentSlide(3)" alt="C">
+      <img class="demo cursor" img="{{ site.baseurl }}/assets/test.png" style="width:100%" onclick="currentSlide(3)" alt="C">
     </div>
     <div class="column">
-      <img class="demo cursor" style="width:100%" onclick="currentSlide(4)" alt="D">
+      <img class="demo cursor" img="{{ site.baseurl }}/assets/test.png" style="width:100%" onclick="currentSlide(4)" alt="D">
     </div>
     <div class="column">
-      <img class="demo cursor" style="width:100%" onclick="currentSlide(5)" alt="E">
+      <img class="demo cursor" img="{{ site.baseurl }}/assets/test.png" style="width:100%" onclick="currentSlide(5)" alt="E">
     </div>    
     <div class="column">
-      <img class="demo cursor" style="width:100%" onclick="currentSlide(6)" alt="F">
+      <img class="demo cursor" img="{{ site.baseurl }}/assets/test.png" style="width:100%" onclick="currentSlide(6)" alt="F">
     </div>
   </div>
 </div>
