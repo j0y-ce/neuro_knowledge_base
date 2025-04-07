@@ -100,17 +100,17 @@ After editing your logo file, run `jekyll serve` to see the changes locally. If 
 
   <div class="mySlides">
     <div class="numbertext">3 / 6</div>
-    <img src="img_mountains_wide.jpg" style="width:100%">
+    <img src="{{ site.baseurl }}/assets/img_lights_wide.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">4 / 6</div>
-    <img src="img_lights_wide.jpg" style="width:100%">
+    <img src="{{ site.baseurl }}/assets/img_nature_wide.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">5 / 6</div>
-    <img src="img_nature_wide.jpg" style="width:100%">
+    <img src="{{ site.baseurl }}/assets/img_mountains_wide.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
@@ -133,16 +133,16 @@ After editing your logo file, run `jekyll serve` to see the changes locally. If 
       <img class="demo cursor" src="{{ site.baseurl }}/assets/img_mountains_wide.jpg" style="width:100%" onclick="currentSlide(2)" alt="Cinque Terre">
     </div>
     <div class="column">
-      <img class="demo cursor" src="img_mountains.jpg" style="width:100%" onclick="currentSlide(3)" alt="Mountains and fjords">
+      <img class="demo cursor" src="{{ site.baseurl }}/assets/img_lights_wide.jpg" style="width:100%" onclick="currentSlide(3)" alt="Mountains and fjords">
     </div>
     <div class="column">
-      <img class="demo cursor" src="img_lights.jpg" style="width:100%" onclick="currentSlide(4)" alt="Northern Lights">
+      <img class="demo cursor" src="{{ site.baseurl }}/assets/img_nature_wide.jpg" style="width:100%" onclick="currentSlide(4)" alt="Northern Lights">
     </div>
     <div class="column">
-      <img class="demo cursor" src="img_nature.jpg" style="width:100%" onclick="currentSlide(5)" alt="Nature and sunrise">
+      <img class="demo cursor" src="{{ site.baseurl }}/assets/img_snow_wide.jpg" style="width:100%" onclick="currentSlide(5)" alt="Nature and sunrise">
     </div>    
     <div class="column">
-      <img class="demo cursor" src="img_snow.jpg" style="width:100%" onclick="currentSlide(6)" alt="Snowy Mountains">
+      <img class="demo cursor" src="{{ site.baseurl }}/assets/img_mountains_wide.jpg" style="width:100%" onclick="currentSlide(6)" alt="Snowy Mountains">
     </div>
   </div>
 </div>
