@@ -203,17 +203,6 @@ function showSlides(n) {
 
 }
 
-$( "#target" ).on( "keydown", function( event ) {
-  if ( event.which == 39 ) {
-    event.preventDefault(); // Prevents the default action (like submitting a form)
-    plusSlides(1);
-  }
-  if ( event.which == 37 ) {
-    event.preventDefault(); // Prevents the default action (like submitting a form)
-    plusSlides(-1);
-  }
-});
-
 
 
 
