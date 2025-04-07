@@ -16,8 +16,7 @@ After editing your logo file, run `jekyll serve` to see the changes locally. If 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YZPmfajMcyw?si=cs5ALcSQfGfY2roO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <style>
-
-bodyX {
+body {
   font-family: Arial;
   margin: 0;
 }
@@ -41,14 +40,14 @@ img {
 }
 
 /* Add a pointer when hovering over the thumbnail images */
-.cursorX {
-  cursorX: pointer;
+.cursor {
+  cursor: pointer;
 }
 
-/* nextX & prevXious buttons */
-.prevX,
-.nextX {
-  cursorX: pointer;
+/* Next & previous buttons */
+.prev,
+.next {
+  cursor: pointer;
   position: absolute;
   top: 40%;
   width: auto;
@@ -62,20 +61,20 @@ img {
   -webkit-user-select: none;
 }
 
-/* Position the "nextX button" to the right */
-.nextX {
+/* Position the "next button" to the right */
+.next {
   right: 0;
   border-radius: 3px 0 0 3px;
 }
 
 /* On hover, add a black background color with a little bit see-through */
-.prevX:hover,
-.nextX:hover {
+.prev:hover,
+.next:hover {
   background-color: rgba(0, 0, 0, 0.8);
 }
 
 /* Number text (1/3 etc) */
-.numbertextX {
+.numbertext {
   color: #f2f2f2;
   font-size: 12px;
   padding: 8px 12px;
@@ -84,32 +83,32 @@ img {
 }
 
 /* Container for image text */
-.caption-containerX {
+.caption-container {
   text-align: center;
   background-color: #222;
   padding: 2px 16px;
   color: white;
 }
 
-.rowX:after {
+.row:after {
   content: "";
   display: table;
   clear: both;
 }
 
 /* Six columns side by side */
-.columnX {
+.column {
   float: left;
   width: 16.66%;
 }
 
 /* Add a transparency effect for thumnbail images */
-.demoX {
+.demo {
   opacity: 0.6;
 }
 
 .active,
-.demoX:hover {
+.demo:hover {
   opacity: 1;
 }
 </style>
@@ -120,42 +119,62 @@ img {
 
 <div class="container">
   <div class="mySlides">
-    <div class="numbertextX">1 / 6</div>
+    <div class="numbertext">1 / 6</div>
     <img src="{{ site.baseurl }}/assets/img_5terre_wide.jpg" style="width:100%">
 
 
   <div class="mySlides">
-    <div class="numbertextX">2 / 6</div>
+    <div class="numbertext">2 / 6</div>
     <img src="{{ site.baseurl }}/assets/img_5terre_wide.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertextX">3 / 6</div>
+    <div class="numbertext">3 / 6</div>
     <img src="{{ site.baseurl }}/assets/img_mountains_wide.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertextX">4 / 6</div>
+    <div class="numbertext">4 / 6</div>
     <img src="{{ site.baseurl }}/assets/img_lights_wide.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertextX">5 / 6</div>
+    <div class="numbertext">5 / 6</div>
     <img src="{{ site.baseurl }}/assets/img_nature_wide.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertextX">6 / 6</div>
+    <div class="numbertext">6 / 6</div>
     <img src="{{ site.baseurl }}/assets/img_snow_wide.jpg" style="width:100%">
   </div>
 
-  <a class="prevX" onclick="plusSlides(-1)">❮</a>
-  <a class="nextX" onclick="plusSlides(1)">❯</a>
+  <a class="prev" onclick="plusSlides(-1)">❮</a>
+  <a class="next" onclick="plusSlides(1)">❯</a>
 
-  <div class="caption-containerX">
+  <div class="caption-container">
     <p id="caption"></p>
   </div>
 
+  <div class="row">
+    <div class="column">
+      <img class="demo cursor" src="assets/img_woods_wide.jpg" style="width:100%" onclick="currentSlide(1)" alt="The Woods">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="assets/img_5terre_wide.jpg" style="width:100%" onclick="currentSlide(2)" alt="Cinque Terre">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="assets/img_mountains_wide.jpg" style="width:100%" onclick="currentSlide(3)" alt="Mountains and fjords">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="assets/img_lights_wide.jpg" style="width:100%" onclick="currentSlide(4)" alt="Northern Lights">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="assets/img_nature_wide.jpg" style="width:100%" onclick="currentSlide(5)" alt="Nature and sunrise">
+    </div>    
+    <div class="column">
+      <img class="demo cursor" src="assets/img_snow_wide.jpg" style="width:100%" onclick="currentSlide(6)" alt="Snowy Mountains">
+    </div>
+  </div>
 </div>
 
 <script>
@@ -173,7 +192,7 @@ function currentSlide(n) {
 function showSlides(n) {
   let i;
   let slides = document.getElementsByClassName("mySlides");
-  let dots = document.getElementsByClassName("demoX");
+  let dots = document.getElementsByClassName("demo");
   let captionText = document.getElementById("caption");
   if (n > slides.length) {slideIndex = 1}
   if (n < 1) {slideIndex = slides.length}
