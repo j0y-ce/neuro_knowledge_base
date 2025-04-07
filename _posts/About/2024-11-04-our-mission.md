@@ -127,22 +127,22 @@ After editing your logo file, run `jekyll serve` to see the changes locally. If 
 
   <div class="row">
     <div class="column">
-      <img class="demo cursor" style="width:100%" onclick="currentSlide(1)" alt="The Woods">
+      <img class="demo cursor" style="width:100%" onclick="currentSlide(1)" >
     </div>
     <div class="column">
-      <img class="demo cursor" style="width:100%" onclick="currentSlide(2)" alt="Cinque Terre">
+      <img class="demo cursor" style="width:100%" onclick="currentSlide(2)">
     </div>
     <div class="column">
-      <img class="demo cursor" style="width:100%" onclick="currentSlide(3)" alt="Mountains and fjords">
+      <img class="demo cursor" style="width:100%" onclick="currentSlide(3)">
     </div>
     <div class="column">
-      <img class="demo cursor" style="width:100%" onclick="currentSlide(4)" alt="Northern Lights">
+      <img class="demo cursor" style="width:100%" onclick="currentSlide(4)">
     </div>
     <div class="column">
-      <img class="demo cursor" style="width:100%" onclick="currentSlide(5)" alt="Nature and sunrise">
+      <img class="demo cursor" style="width:100%" onclick="currentSlide(5)">
     </div>    
     <div class="column">
-      <img class="demo cursor" style="width:100%" onclick="currentSlide(6)" alt="Snowy Mountains">
+      <img class="demo cursor" style="width:100%" onclick="currentSlide(6)">
     </div>
   </div>
 </div>
