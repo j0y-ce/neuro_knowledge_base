@@ -94,12 +94,12 @@ After editing your logo file, run `jekyll serve` to see the changes locally. If 
 <div class="container">
   <div class="mySlides">
     <div class="numbertext">1 / 6</div>
-    <img src="{{ site.baseurl }}/assets/img_5terre_wide.jpg" style="width:100%">
+    <img src="{{ site.baseurl }}/assets/img_5terre_wide.jpg" style="width:100% onclick="currentSlide(2)"">
 
 
   <div class="mySlides">
     <div class="numbertext">2 / 6</div>
-    <img src="{{ site.baseurl }}/assets/img_5terre_wide.jpg" style="width:100%">
+    <img src="{{ site.baseurl }}/assets/img_5terre_wide.jpg" style="width:100%" onclick="currentSlide(3)>
   </div>
 
   <div class="mySlides">
