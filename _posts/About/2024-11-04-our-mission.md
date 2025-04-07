@@ -131,8 +131,8 @@ div.scroll-container img {
     <img src="{{ site.baseurl }}/assets/img_snow_wide.jpg" style="width:100%">
   </div>
 
-  <a class="prev" onclick="plusSlides(-1)">❮</a>
-  <a class="next" onclick="plusSlides(1)">❯</a>
+  <a class="prev" onclick="plusSlides(-1)" onkeydown="plusSlides(-1)">❮</a>
+  <a class="next" onclick="plusSlides(1)" onkeydown="plusSlides(1)">❯</a>
 
   <div class="caption-container">
     <p id="caption"></p>
@@ -200,4 +200,8 @@ function showSlides(n) {
   dots[slideIndex-1].className += " active";
   <!--captionText.innerHTML = dots[slideIndex-1].alt;-->
 }
+
+
+
+
 </script>
