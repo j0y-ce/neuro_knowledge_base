@@ -85,6 +85,19 @@ After editing your logo file, run `jekyll serve` to see the changes locally. If 
 .demo:hover {
   opacity: 1;
 }
+
+div.scroll-container {
+  background-color: #333;
+  overflow: auto;
+  white-space: nowrap;
+  padding: 10px;
+}
+
+div.scroll-container img {
+  padding: 10px;
+}
+
+
 </style>
 
 <div class="container">
@@ -145,6 +158,14 @@ After editing your logo file, run `jekyll serve` to see the changes locally. If 
       <img class="demo cursor" style="width:100%" onclick="currentSlide(6)" >
     </div>
   </div>
+</div>
+
+
+<div class="scroll-container">
+  <img src="{{ site.baseurl }}/assets/img_5terre_wide.jpg" alt="Cinque Terre">
+  <img src="{{ site.baseurl }}/assets/img_woods_wide.jpg" alt="Forest">
+  <img src="{{ site.baseurl }}/assets/img_lights_wide.jpg" alt="Northern Lights">
+  <img src="{{ site.baseurl }}/assets/img_nature_wide.jpg" alt="Mountains">
 </div>
 
 
