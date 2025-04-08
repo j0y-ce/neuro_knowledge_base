@@ -134,9 +134,10 @@ div.scroll-container img {
   <a class="prev" onclick="plusSlides(-1)">❮</a>
   <a class="next" onclick="plusSlides(1)">❯</a>
 
+<!--
   <div class="caption-container">
     <p id="caption"></p>
-  </div>
+  </div>-->
 
   <div class="row">
     <div class="column">
@@ -160,13 +161,13 @@ div.scroll-container img {
   </div>
 </div>
 
-<!--
+
 <div class="scroll-container">
   <img src="{{ site.baseurl }}/assets/img_5terre_wide.jpg" alt="Cinque Terre">
   <img src="{{ site.baseurl }}/assets/img_woods_wide.jpg" alt="Forest">
   <img src="{{ site.baseurl }}/assets/img_lights_wide.jpg" alt="Northern Lights">
   <img src="{{ site.baseurl }}/assets/img_nature_wide.jpg" alt="Mountains">
-</div>-->
+</div>
 
 
 
