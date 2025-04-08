@@ -160,13 +160,13 @@ div.scroll-container img {
   </div>
 </div>
 
-
+<!--
 <div class="scroll-container">
   <img src="{{ site.baseurl }}/assets/img_5terre_wide.jpg" alt="Cinque Terre">
   <img src="{{ site.baseurl }}/assets/img_woods_wide.jpg" alt="Forest">
   <img src="{{ site.baseurl }}/assets/img_lights_wide.jpg" alt="Northern Lights">
   <img src="{{ site.baseurl }}/assets/img_nature_wide.jpg" alt="Mountains">
-</div>
+</div>-->
 
 
 
