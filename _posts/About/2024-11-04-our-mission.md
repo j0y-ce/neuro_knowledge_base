@@ -137,7 +137,7 @@ div.scroll-container img {
 <!--
   <div class="caption-container">
     <p id="caption"></p>
-  </div>-->
+  </div>
 
   <div class="row">
     <div class="column">
@@ -159,7 +159,7 @@ div.scroll-container img {
       <img class="demo cursor" style="width:100%" onclick="currentSlide(6)" >
     </div>
   </div>
-</div>
+</div>-->
 
 
 <div class="scroll-container">
