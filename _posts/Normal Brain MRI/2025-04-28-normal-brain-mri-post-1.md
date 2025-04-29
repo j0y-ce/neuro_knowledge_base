@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Normal Brain MRI Post 1"
+title: "Approach to MRI"
 date: 2025-04-28 08:58:38 -0400
 category: subcategory-content-3
 author: joyce
@@ -8,7 +8,7 @@ short-description: test description
 ---
 
 -----
-Approach to MR
+
 In order to properly introduce brain imaging, before even starting to think about anatomy or pathology, we must talk about how to approach a brain MRI.
 In most clinical circumstances, one would be exposed to an MRI of the brain through a viewing software where the user can change the view, the slice and the sequences at will. However, in research settings, we are often exposed to brain MRIs in the context of poster presentations or rapidly changing PowerPoints slides at a talk where it becomes a game of rapidly identifying the salient findings presented to us.
 Regardless of the context in which the image is presented, the following principles will be helpful to any beginner approaching a brain MRI.
