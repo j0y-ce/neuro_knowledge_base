@@ -16,26 +16,27 @@ Regardless of the context in which the image is presented, the following princip
 
 First, identify the sequence. Different sequences will cause the same structure to appear differently and make others easier or harder to visualize. You can use the following approach to identify the sequence you’re in for brain MRIs:
 
-a)	Ask, is the white matter brighter that the grey matter? 
-If yes, then you are in T1. If no, then ask:
-b)	Is the CSF bright (high signal intensity)?
-If yes, then you are in T2. If no, you are likely in FLAIR.
+  a)	Ask, is the white matter brighter that the grey matter? 
+  If yes, then you are in T1. If no, then ask:
+  
+  b)	Is the CSF bright (high signal intensity)?
+  If yes, then you are in T2. If no, you are likely in FLAIR.
 
 Second, identify the view. Is the image cut in axial, coronal or sagittal?
 
 Third, identify the level of the section. This step requires the use of your anatomic knowledge to identify landmarks that might give you a clue as to what level the section is performed at. Different landmarks might be useful for different planes.
 
-For example:
+  For example:
 
-a)	Coronal: I find it really useful to look at the shape of the ventricles to determine how anterior or posterior the section is. Other big landmarks include whether or not the temporal lobe, the third ventricle, or the cerebellum is visible on the section.
+  a)	Coronal: I find it really useful to look at the shape of the ventricles to determine how anterior or posterior the section is. Other big landmarks include whether or not the temporal lobe, the third     ventricle, or the cerebellum is visible on the section.
 
-(insert image about ventricles appearance, anterior to posterior)
+  (insert image about ventricles appearance, anterior to posterior)
 
-b)	Axial: The appearance of the ventricles is once again a great landmark of the level. Once in the brainstem, the cross-section appearance of the brainstem as well as the ventral arteries can give you a good clue about which level of the brainstem you are looking at.
+  b)	Axial: The appearance of the ventricles is once again a great landmark of the level. Once in the brainstem, the cross-section appearance of the brainstem as well as the ventral arteries can give you a   good clue about which level of the brainstem you are looking at.
 
-(insert image about ventricles appearance, superior to inferior. Initially, see the body which is continuous and very midline, then as it descends, no longer continuous. Third ventricle appears. Link to brainstem cross sections)
+  (insert image about ventricles appearance, superior to inferior. Initially, see the body which is continuous and very midline, then as it descends, no longer continuous. Third ventricle appears. Link to     brainstem cross sections)
 
-c)	Sagittal: Best to always start midline! Identify the midline by finding the third ventricle (dark on T1 and FLAIR) and the pituitary sella.
+  c)	Sagittal: Best to always start midline! Identify the midline by finding the third ventricle (dark on T1 and FLAIR) and the pituitary sella.
 
 Finally, the last step is to read. Whenever you approach a brain MRI, you should always be looking to answer a question. Maybe it’s to rule out a certain pathology and make sure every area of the brain looks normal. Maybe it’s to look for a pathological pattern specific to a disease, such as MS. Maybe it’s simply to verify if you can identify the findings in a brain MRI that someone else has reported to you.
 
