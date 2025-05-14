@@ -3,8 +3,8 @@ layout: post
 title: "Approach to MRI"
 date: 2025-04-28 08:58:38 -0400
 category: subcategory-content-3
-author: joyce
-short-description: test description
+author: Joyce
+short-description: 
 ---
 
 -----
