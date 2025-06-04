@@ -150,6 +150,83 @@ new-author:
 2. Push the change to Github, wait for build to finish
 3. Load the corresponding page twice to see changes reflected
 
+
+# Formatting Text to be Bold or Italic
+```
+Multiple Ways:
+
+<b>Bold Text Example</b>
+**Bold Text Example**
+
+<i>Italic Text Example</i>
+*Italic Text Example*
+
+***Bold and Italic Text Example***
+```
+
+
+# Rendering Tables
+```
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+
+<table>
+<colgroup>
+<col width="30%" />
+<col width="70%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Field</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span">First column **fields**</td>
+<td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
+</tr>
+<tr>
+<td markdown="span">Second column **fields**</td>
+<td markdown="span">Some more descriptive text.
+</td>
+</tr>
+</tbody>
+</table>
+
+```
+
+# Rendering Point-Form Format
+```
+Multiple Ways:
+
+
+Example Summary
+- Point 1
+- Point 2
+- Point 3
+    * Subpoint 1
+    * Subpoint 2
+    * Subpoint 3
+
+<ol>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+  <li>Fourth item</li>
+</ol>
+
+<ul>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+  <li>Fourth item</li>
+</ul>
+```
+
+
 NOTE - If you're changing the URL, reach out to me for help - it is more complex.
 In general, if there's any changes here that you'd be uncomfortable with, reach out to me.
 
