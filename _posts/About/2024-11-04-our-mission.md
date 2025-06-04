@@ -57,16 +57,16 @@ Table Example
 <col width="30%" />
 <col width="70%" />
 </colgroup>
-<thead class="header" style="border: 1px solid #990000; border-collapse: collapse">
+<thead>
 <tr class="header" style="border: 1px solid #990000; border-collapse: collapse">
 <th style="border: 1px solid #990000; border-collapse: collapse">Field</th>
 <th style="border: 1px solid #990000; border-collapse: collapse">Description</th>
 </tr>
 </thead>
-<tbody class="header" style="border: 1px solid #990000; border-collapse: collapse">
+<tbody>
 <tr>
-<td markdown="span">First column **fields**</td>
-<td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
+<td style="border: 1px solid #990000; border-collapse: collapse">First column **fields**</td>
+<td style="border: 1px solid #990000; border-collapse: collapse">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
 </tr>
 <tr>
 <td markdown="span">Second column **fields**</td>
