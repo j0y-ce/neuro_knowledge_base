@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Normal Brain MRI Post 1"
-date: 2024-11-03 08:44:38 -0400
+title: "Normal Grey and White Matter"
+date: 2025-04-28 20:51:38 -0400
 category: subcategory-content-3
 author: joyce
 short-description: test description
