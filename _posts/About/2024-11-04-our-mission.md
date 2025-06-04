@@ -52,6 +52,15 @@ Table Example
 | Paragraph   | Text        | And more      |
 
 
+Spacing
+
+
+| Syntax      | Description | Test Text     | Test Text     |
+| :---        |    :----:   |          ---: |          ---: |
+| Header      | Title       | Here's this   | Here's this   |
+| Paragraph   | Text        | And more      | And more      |
+
+
 
 <table style="border: 1px solid black; border-collapse: collapse">
 <colgroup>
