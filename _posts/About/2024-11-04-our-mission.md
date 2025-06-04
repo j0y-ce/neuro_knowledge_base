@@ -52,15 +52,15 @@ Table Example
 | Paragraph   | Text        | And more      |
 
 
-<table style="border: 5px solid #990000; border-collapse: collapse">
+<table style="border: 1px solid #990000; border-collapse: collapse">
 <colgroup>
 <col width="30%" />
 <col width="70%" />
 </colgroup>
 <thead>
-<tr class="header">
-<th>Field</th>
-<th>Description</th>
+<tr class="header" style="border: 1px solid #990000; border-collapse: collapse">
+<th style="border: 1px solid #990000; border-collapse: collapse">Field</th>
+<th style="border: 1px solid #990000; border-collapse: collapse">Description</th>
 </tr>
 </thead>
 <tbody>
