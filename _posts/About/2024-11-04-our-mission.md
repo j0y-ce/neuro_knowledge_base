@@ -52,25 +52,25 @@ Table Example
 | Paragraph   | Text        | And more      |
 
 
-<table style="border: 1px solid #990000; border-collapse: collapse">
+<table>
 <colgroup>
 <col width="30%" />
 <col width="70%" />
 </colgroup>
 <thead>
-<tr class="header" style="border: 1px solid #990000; border-collapse: collapse">
-<th style="border: 1px solid #990000; border-collapse: collapse">Field</th>
-<th style="border: 1px solid #990000; border-collapse: collapse">Description</th>
+<tr>
+<th>Field</th>
+<th>Description</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="border: 1px solid #990000; border-collapse: collapse">First column **fields**</td>
-<td style="border: 1px solid #990000; border-collapse: collapse">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
+<td>First column **fields**</td>
+<td>Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
 </tr>
-<tr style="border: 1px solid #990000; border-collapse: collapse">
-<td style="border: 1px solid #990000; border-collapse: collapse">Second column **fields**</td>
-<td style="border: 1px solid #990000; border-collapse: collapse">Some more descriptive text.
+<tr>
+<td>Second column **fields**</td>
+<td>Some more descriptive text.
 </td>
 </tr>
 </tbody>
