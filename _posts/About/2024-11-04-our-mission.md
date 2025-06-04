@@ -52,6 +52,7 @@ Table Example
 | Paragraph   | Text        | And more      |
 
 
+
 <table style="border: 1px solid black; border-collapse: collapse">
 <colgroup>
 <col width="30%" />
