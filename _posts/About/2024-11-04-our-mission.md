@@ -13,6 +13,46 @@ The easiest way to change the logo used by Odin is to replace the `logo.png` fil
 
 After editing your logo file, run `jekyll serve` to see the changes locally. If you're satisfied with your changes, run `jekyll build` and then push your changes to your repo.
 
+Example Summary
+- Point 1
+- Point 2
+- Point 3
+    * Subpoint 1
+    * Subpoint 2
+    * Subpoint 3
+
+<b>Bold Text Example</b>
+*Bold Text Example*
+
+<i>Italic Text Example</i>
+**Italic Text Example**
+
+***Bold and Italic Example***
+
+<ol>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+  <li>Fourth item</li>
+</ol>
+
+<ul>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+  <li>Fourth item</li>
+</ul>
+
+Table Example
+
+
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YZPmfajMcyw?si=cs5ALcSQfGfY2roO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <style>
