@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Ventricular System in T1"
+title: "The Ventricular System in FLAIR"
 date: 2025-07-15 08:58:38 -0400
 category: subcategory-content-3
 author: Joyce
@@ -8,9 +8,9 @@ short-description:
 ---
 
 -----
-Remember what intensity fluid appears as on T1 (build in link to T1 brick)? 
+Remember what intensity fluid appears as on <a href="{{ site.baseurl }}/subcategory-content-2/first-content-post">FLAIR</a>? 
 
-That’s right! Fluid on T1 has low signal intensity, and therefore the ventricular system that’s filled with CSF will appear black on T1 images.
+That’s right! Fluid on is suppressed on FLAIR and therefore has low signal intensity, making the ventricular system that’s filled with CSF  appear black.
 
 
 <b>Coronal view</b>
