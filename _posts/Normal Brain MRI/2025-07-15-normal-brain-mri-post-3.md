@@ -16,9 +16,11 @@ Start by scrolling to the midline on the sagittal view. The marginal sulcus is f
 
 The marginal sulcus can be found on axial view by starting from the surface of the cortex and scrolling down (caudally) all while paying attention to follow the sulci as you go down in order to identify which sulci persists until the cingulate.
 
--	Parieto-occipital sulcus: found posterior to the marginal sulcus, the parieto-occipital sulcus originates from the surface of the cortex and curves deeper to end near the posterior aspect of the corpus callosum. This sulcus usually does not transect the cingulate gyrus , but rather appears to connect posteriorly with the cingulate sulcus.
+-	Parieto-occipital sulcus: found posterior to the marginal sulcus, the parieto-occipital sulcus originates from the surface of the cortex and curves deeper to end near the posterior aspect of the corpus callosum.
+This sulcus usually does not transect the cingulate gyrus , but rather appears to connect posteriorly with the cingulate sulcus.
 
--	Calcarine sulcus: this sulcus is also most evident on mid-sagittal view. It travels from inferior aspect of the occipital cortex to the posterior aspect of the corpus callosum, where it joins with the parieto-occipital sulcus. What might be visually helpful is to remember that together, the calcarine sulcus and the parieto-occipital sulcus form a triangle (the cuneus).
+-	Calcarine sulcus: this sulcus is also most evident on mid-sagittal view.
+It travels from inferior aspect of the occipital cortex to the posterior aspect of the corpus callosum, where it joins with the parieto-occipital sulcus. What might be visually helpful is to remember that together, the calcarine sulcus and the parieto-occipital sulcus form a triangle (the cuneus).
 
 (insert mid-sagittal image identifying marginal sulcus, cingulate gyrus + sulcus,  calcarine and parieto-occipital sulcus)
 
