@@ -31,7 +31,7 @@ Regardless of the context in which the image is presented, the following princip
   For example:
   
   <ol>
-  <li>  a)	Coronal: I find it really useful to look at the shape of the ventricles to determine how anterior or posterior the section is. Other big landmarks include whether or not the temporal lobe, the third ventricle, or the cerebellum is visible on the section.</li>
+  <li> Coronal: I find it really useful to look at the shape of the ventricles to determine how anterior or posterior the section is. Other big landmarks include whether or not the temporal lobe, the third ventricle, or the cerebellum is visible on the section.</li>
     
 ![Image]({{ site.baseurl }}/assets/anterior- coronal.png){: width="500" }
 
@@ -41,13 +41,13 @@ Regardless of the context in which the image is presented, the following princip
 
 ![Image]({{ site.baseurl }}/assets/posterior-coronal.png){: width="500" }
     
-  <li>  b)	Axial: The appearance of the ventricles is once again a great landmark of the level. Once in the brainstem, the cross-section appearance of the brainstem as well as the ventral arteries can give you a good clue about which level of the brainstem you are looking at.</li>
+  <li> Axial: The appearance of the ventricles is once again a great landmark of the level. Once in the brainstem, the cross-section appearance of the brainstem as well as the ventral arteries can give you a good clue about which level of the brainstem you are looking at.</li>
 
 ![Image]({{ site.baseurl }}/assets/superior axial.png){: width="500" }
 
 ![Image]({{ site.baseurl }}/assets/mid ventricles axial.png){: width="500" }
 
-  <li>c)	Sagittal: Best to always start midline! Identify the midline by finding the third ventricle (dark on T1 and FLAIR) and the pituitary sella.</li>
+  <li> Sagittal: Best to always start midline! Identify the midline by finding the third ventricle (dark on T1 and FLAIR) and the pituitary sella.</li>
 </ol>
 
 ![Image]({{ site.baseurl }}/assets/mid-sagittal.png){: width="500" }
