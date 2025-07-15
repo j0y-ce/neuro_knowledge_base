@@ -20,19 +20,19 @@ In fact, the shape of the lateral ventricles and whether or not the third ventri
 Extending into the frontal lobe, the anterior horns of the lateral ventricle initially look like a broken up “W”-shape. 
 At this level, the floors of the lateral ventricles appear concave, as if pushed up by the head of the caudate. 
 
-![Image]({{ site.baseurl }}/assets/anterior- coronal.png){: width="500" }
+![Image]({{ site.baseurl }}/assets/anterior- coronal.png){: width="250" }
 
 
 As the sections move more and more posterior, a central slit-like structure appears in the mid-line, inferior to both lateral ventricles: this is the third ventricle.
 
-![Image]({{ site.baseurl }}/assets/mid-anterior coronal.png){: width="500" }
+![Image]({{ site.baseurl }}/assets/mid-anterior coronal.png){: width="250" }
 
 
 A little further posterior to the level where the third ventricle comes into view, the shape of the lateral ventricles change: the inferior poles of the ventricles become rounder, and the “W”-shape shifts into a wide “U”-shape. 
 Usually, the bilateral thalami come into view at this section. 
 Though not covered in this course, the mamillary bodies also become visible around this level.
 
-![Image]({{ site.baseurl }}/assets/mid-posterior coronal.png){: width="500" }
+![Image]({{ site.baseurl }}/assets/mid-posterior coronal.png){: width="250" }
 
 As we move even more posterior, notice that the temporal/inferior horns of the lateral ventricles begin to appear in the bilateral temporal lobes. <i>Mention location of hippocampus/amygdala? </i>
 
@@ -49,7 +49,8 @@ This is also the section where the cerebellum begins to appear.
 Moving posterior again, we are seeing the posterior horns of the lateral ventricles, which are positioned almost vertical. There is a gaping hole between the cerebrum and the cerebellum, which is just the CSF surrounding the brain; however, within the cerebellum, at the midline, you might observe another CSF filled structure: the fourth ventricle.
 
 (show posterior coronal section with labelled posterior horns of lateral ventricles and fourth ventricles)
-![Image]({{ site.baseurl }}/assets/posterior-coronal.png){: width="500" }
+
+![Image]({{ site.baseurl }}/assets/posterior-coronal.png){: width="250" }
 
 Finally, in the most posterior coronal sections, only the posterior horns of the lateral ventricles are visible; here, they shift from their vertical slit appearance to a more hole-like punctate shape.!!!
 !!!(show posterior coronal section with labelled posterior horn of lateral ventricles)!!!
@@ -58,7 +59,7 @@ Finally, in the most posterior coronal sections, only the posterior horns of the
 
 As previously explained, the ventricular system is a 3D structure. 
 
-![Image]({{ site.baseurl }}/assets/3rd ventricle-sagittal.png){: width="500" }
+![Image]({{ site.baseurl }}/assets/3rd ventricle-sagittal.png){: width="250" }
 
 We will go over important sections on sagittal view and offer reference images of how the 3D ventricles translate to 2D sections in sagittal. 
 Hint: the classic “C”-shape of the lateral ventricles ISN’T SEEN on any single plane.
@@ -74,16 +75,20 @@ However, many times MRI sections don’t map exactly to midline, and therefore t
 From lateral to midline, this is the view:
 
 Temporal horn:
-![Image]({{ site.baseurl }}/assets/lateral-sagittal.png){: width="500" }
+
+![Image]({{ site.baseurl }}/assets/lateral-sagittal.png){: width="250" }
 
 Trigone:
-![Image]({{ site.baseurl }}/assets/medial-lateral-sagittal.png){: width="500" }
+
+![Image]({{ site.baseurl }}/assets/medial-lateral-sagittal.png){: width="250" }
 
 Just lateral to mid-sagittal:
-![Image]({{ site.baseurl }}/assets/almost-mid-sagittal.png){: width="500" }
+
+![Image]({{ site.baseurl }}/assets/almost-mid-sagittal.png){: width="250" }
 
 Mid-sagittal:
-![Image]({{ site.baseurl }}/assets/mid-sagittal.png){: width="500" }
+
+![Image]({{ site.baseurl }}/assets/mid-sagittal.png){: width="250" }
 
 
 <b>Axial view </b>
@@ -91,7 +96,7 @@ Mid-sagittal:
 Let’s approach axial sections superior to inferior.
 The lateral ventricles come into view first and appear as initially as a number “11” before elongating into bilateral, continuous crescents. 
 
-![Image]({{ site.baseurl }}/assets/superior axial.png){: width="500" }
+![Image]({{ site.baseurl }}/assets/superior axial.png){: width="250" }
 
 As the sections move more inferior, the lateral ventricles appear to split into a pair of thin “bunny ears” (the body) anteriorly and bilateral circles posteriorly (posterior horn). 
 In the middle, where the ventricles used to be joined, are the bilateral thalami (large grey matter structures) sandwiching another hypointense, CSF structure: the third ventricle. 
@@ -102,11 +107,15 @@ mid ventricles axial.png
 
 A few more sections down, the posterior horns elongate like horns (true to their name) into the occipital lobe. The third ventricle gradually becomes shorter as well. 
 (show ventricles at level described)
+
 The cerebral aqueduct becomes visible at the level of the midbrain; around this level is also where the inferior horns of the lateral ventricles can be seen in the temporal lobes.
 (show ventricles at level described)
+
 The cerebral aqueduct spills into the fourth ventricle at the level of the caudal pons; you’ll know you’ve reached the fourth ventricle when the CSF structure goes from being inside the brainstem (still cerebral aqueduct) to between the brainstem and the cerebellum.
 (show 4th ventricle at level described)
-The axial view is interesting because it allows the viewer to evaluate multiple points of drainage from top to bottom, which becomes relevant for evaluation of communicating vs. non-communicating hydrocephalus.
+
+
+The axial view allows the viewer to evaluate multiple points of drainage from top to bottom, which becomes relevant for evaluation of communicating vs. non-communicating hydrocephalus.
 
 ________
 For the other sequences, same logic but different relative intensity of structures.
