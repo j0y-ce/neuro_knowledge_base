@@ -12,20 +12,20 @@ Grey and white matter are represented in different intensities depending on the 
 Grey matter intensity less than white matter.
 Ie. Grey matter is slightly darker than white matter. 
 
-![Image]({{ site.baseurl }}/assets/T1-example.png){: width="500" }
+![Image]({{ site.baseurl }}/assets/T1-example.png){: width="250" }
 
 <b>T2</b>
 Grey matter intensity greater than white matter.
 Ie. Grey matter is slightly brighter than white matter. 
 
-![Image]({{ site.baseurl }}/assets/T2-example.png){: width="500" }
+![Image]({{ site.baseurl }}/assets/T2-example.png){: width="250" }
 
 <b>FLAIR</b>
 Grey matter intensity > white matter.
 Ie. Grey matter is slightly brighter than white matter. 
 However, in opposition to T2, CSF is attenuated (ie. dark) on FLAIR.
 
-![Image]({{ site.baseurl }}/assets/FLAIR example.png){: width="500" }
+![Image]({{ site.baseurl }}/assets/FLAIR example.png){: width="250" }
 
 <b>DWI</b>
 Grey matter intensity > white matter.
