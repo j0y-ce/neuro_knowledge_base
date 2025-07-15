@@ -14,7 +14,7 @@ In most clinical circumstances, one would be exposed to an MRI of the brain thro
 
 Regardless of the context in which the image is presented, the following principles will be helpful to any beginner approaching a brain MRI.
 
-First, identify the sequence. Different sequences will cause the same structure to appear differently and make others easier or harder to visualize. You can use the following approach to identify the sequence you’re in for brain MRIs:
+<b> First, identify the sequence.</b> Different sequences will cause the same structure to appear differently and make others easier or harder to visualize. You can use the following approach to identify the sequence you’re in for brain MRIs:
 
 <ol>
   <li>Ask, is the white matter brighter that the grey matter? 
@@ -24,9 +24,9 @@ First, identify the sequence. Different sequences will cause the same structure 
 </ol>
 
 
-Second, identify the view. Is the image cut in axial, coronal or sagittal?
+<b>Second, identify the view. </b> Is the image cut in axial, coronal or sagittal?
 
-Third, identify the level of the section. This step requires the use of your anatomic knowledge to identify landmarks that might give you a clue as to what level the section is performed at. Different landmarks might be useful for different planes.
+<b>Third, identify the level of the section.</b> This step requires the use of your anatomic knowledge to identify landmarks that might give you a clue as to what level the section is performed at. Different landmarks might be useful for different planes.
 
   For example:
   
@@ -34,13 +34,17 @@ Third, identify the level of the section. This step requires the use of your ana
   <li>  a)	Coronal: I find it really useful to look at the shape of the ventricles to determine how anterior or posterior the section is. Other big landmarks include whether or not the temporal lobe, the third ventricle, or the cerebellum is visible on the section.</li>
     
 ![Image]({{ site.baseurl }}/assets/anterior- coronal.png){: width="500" }
+
 ![Image]({{ site.baseurl }}/assets/mid-anterior coronal.png){: width="500" }
+
 ![Image]({{ site.baseurl }}/assets/mid-posterior coronal.png){: width="500" }
+
 ![Image]({{ site.baseurl }}/assets/posterior-coronal.png){: width="500" }
     
   <li>  b)	Axial: The appearance of the ventricles is once again a great landmark of the level. Once in the brainstem, the cross-section appearance of the brainstem as well as the ventral arteries can give you a good clue about which level of the brainstem you are looking at.</li>
 
 ![Image]({{ site.baseurl }}/assets/superior axial.png){: width="500" }
+
 ![Image]({{ site.baseurl }}/assets/mid ventricles axial.png){: width="500" }
 
   <li>c)	Sagittal: Best to always start midline! Identify the midline by finding the third ventricle (dark on T1 and FLAIR) and the pituitary sella.</li>
