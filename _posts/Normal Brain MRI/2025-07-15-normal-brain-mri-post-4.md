@@ -117,6 +117,6 @@ The cerebral aqueduct spills into the fourth ventricle at the level of the cauda
 
 The axial view allows the viewer to evaluate multiple points of drainage from top to bottom, which becomes relevant for evaluation of communicating vs. non-communicating hydrocephalus.
 
-________
-For the other sequences, same logic but different relative intensity of structures.
+
+For the other sequences, follow the same same logic. However, remember that the relative intensities of different structures will change! (<a href="{{ site.baseurl }}/subcategory-content-1">Link to MRI Basics</a>)
 
