@@ -8,3 +8,8 @@ short-description:
 ---
 
 -----
+Ventricular System
+-	Ventricles and drainage (lateral ventricles, third ventricle, fourth ventricle)
+-	Arachnoid granulations and choroid plexi
+The ventricular system consists of a series of ventricles and canals where cerebrospinal fluid (CSF) is produced and circulated.
+
