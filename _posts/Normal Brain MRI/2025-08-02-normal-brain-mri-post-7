@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Brainstem"
+title: "Posterior Fossa Structures"
 date: 2025-08-2 08:58:38 -0400
 category: subcategory-content-3
 author: Joyce
@@ -12,15 +12,21 @@ short-description:
 
 <b>Sagittal </b>
 
-The brainstem is composed of ascending and descending white matter tracts as well as multiple small grey-matter nuclei; as such, the overall intensity of the brainstem on MRI resembles more the intensity of white matter (ie. paler than grey matter), but with some heterogeneity.
+The <u> brainstem </u> is composed of ascending and descending white matter tracts as well as multiple small grey-matter nuclei; as such, the overall intensity of the brainstem on MRI resembles more the intensity of white matter (ie. paler than grey matter), but with some heterogeneity.
 
-To start, find the mid-sagittal section; if it is exact, you should find the third ventricle (link to ventricles brick) but if you re slightly off-center, you will see a thalamus (a grey matter structure, therefore hyperintense than CSF) underneath the hyperintense curve of the fornix.
-Whether you found the third ventricle or the thalamus, the midbrain begins just inferior to it.
+To start, find the mid-sagittal section; if it is exact, you should find the <a href="{{ site.baseurl }}/subcategory-content-3/third-content-post">third ventricle</a> but if you re slightly off-center, you will see a thalamus (a grey matter structure, therefore hyperintense than CSF) underneath the hyperintense curve of the fornix.
+
+Whether you found the third ventricle or the thalamus, the midbrain begins just inferior to it. It may look like the beak of a bird in perfect mid-sagittal view.
+
 Inferiorly, the midbrain is delimited by the pons which has a characteristic ventral bulge on sagittal. 
+
 The medulla is the most inferior portion of the brainstem; it begins superiorly where the pons ends (end of the “bulge”) and is delimited inferiorly by the foramen magnum, where it transitions into the spinal cord.
 
 ![Image]({{ site.baseurl }}/assets/Brainstem-mid sag.png){: width="250" }
 
+The lobes and fissures of the <u> cerebellum </u> can be well visualized on mid-sagittal as well. 
+
+![Image]({{ site.baseurl }}/assets/Cerebellumg.png){: width="250" }
 
 <b>Axial </b>
 On axial, it is important to recognize the level of the section by using nearby landmarks and the distinct cross-section shape of each part of the brainstem.
