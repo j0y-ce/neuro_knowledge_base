@@ -175,12 +175,14 @@ Multiple Ways:
 spacing
 
 
+
 | Syntax      | Description | Test Text     | Test Text     |
 | :---        |    :----:   |          ---: |          ---: |
 | Header      | Title       | Here's this   | Here's this   |
 | Paragraph   | Text        | And more      | And more      |
 
 spacing
+
 
 <table style="border: 1px solid black; border-collapse: collapse">
 <colgroup>

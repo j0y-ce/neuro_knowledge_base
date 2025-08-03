@@ -42,3 +42,11 @@
 table, tr, th, thead, tbody {
     border-collapse: collapse;
 }
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
