@@ -76,7 +76,7 @@ The three most basic tracts are detailed in the following table.
 *Decussation refers to the point where fibers from one side of the body “cross over” to the other side. 
 Many tracts decussate on their way from the brain to the periphery or vice-versa, creating the phenomenon where many neurological functions are governed by the opposite hemisphere. 
 The level of decussation refers to where, in the CNS, do the fibers cross over.
-Each tract is located in a distinct region at each level of the brainstem, which you can learn about <a href="{{ site.baseurl }}/subcategory-content-2/fourth-content-post">here</a>.
+Each tract is located in a distinct region at each level of the brainstem, which you can learn about <a href="{{ site.baseurl }}/subcategory-content-2/five-content-post">here</a>.
 
 <b> Other important tracts </b>
 The <u> external capsule </u> is a thin white matter tract found between the lentiform nuclei and the insular cortex. 
