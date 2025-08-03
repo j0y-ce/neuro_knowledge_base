@@ -23,14 +23,14 @@ Meanwhile, other glial cells play important roles not only in the regulation and
 | :---            |    :----:   |
 | Oligodendrocyte |•	Myelination |
 |                 |•	Arise from the immature oligodendrocyte progenitor cell (OPC) |
-| :---            |    :----:   |
+
 | Astrocyte       |•	Maintenance of the blood-brain and blood-CSF barriers |
 |                 |•	Control of extracellular ionic gradient |
 |                 |•	Mediation of perivascular CSF flow dynamics |
 |                 |•	Regulation of cerebral blood flow |
 |                 |•	Provide metabolic support to neurons |
 |                 |•	Regulation of synaptic transmission |
-| :---            |    :----:   |
+
 | Microglia       | •	Innate immunity of the CNS |
 |                 |•	Myelin maintenance (particularly in situations of injury-repair) |
 
@@ -68,9 +68,9 @@ The three most basic tracts are detailed in the following table.
 | :---                     |    :----:   |          ---: |
 | Spinothalamic Tract      | Carries sensory information for <b> pain and temperature </b>.   |At the spinal cord level |
 |                          |*trick: spinothalamic starts with an ‘s’ for ‘suffering’ |                         |
-| :---                     |    :----:   |          ---: |
+
 | Dorsal Column/Medial Lemniscus Pathway | Carries sensory information of <b> vibration and proprioception </b>.        | At the level of the medulla oblongata more  |
-| :---                     |    :----:   |          ---: |
+
 | Corticospinal Pathway                  | Carries motor information (ie. commands) to the periphery.                   | At the level of the medulla oblongata more  |
 
 *Decussation refers to the point where fibers from one side of the body “cross over” to the other side. 
