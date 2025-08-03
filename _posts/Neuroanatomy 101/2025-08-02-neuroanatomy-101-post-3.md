@@ -65,12 +65,12 @@ These pathways are made up of a relay of neurons which synapse on each other alo
 The three most basic tracts are detailed in the following table.
 
 | <b> Pathway </b>         | <b> Function </b>                                                | <b> Decussation* </b>   |
-| :---                     |    :----:   |          ---: |
+| :---                     |:----   |:--- |
 | Spinothalamic Tract      | Carries sensory information for <b> pain and temperature </b>.   |At the spinal cord level |
 |                          |*trick: spinothalamic starts with an ‘s’ for ‘suffering’ |                         |
-| :---                     |    :----:   |          ---: |
+| :---                     |:----   |:--- |
 | Dorsal Column/Medial Lemniscus Pathway | Carries sensory information of <b> vibration and proprioception </b>.        | At the level of the medulla oblongata more  |
-| :---                     |    :----:   |          ---: |
+| :---                     |:----   |:--- |
 | Corticospinal Pathway                  | Carries motor information (ie. commands) to the periphery.                   | At the level of the medulla oblongata more  |
 
 *Decussation refers to the point where fibers from one side of the body “cross over” to the other side. 
