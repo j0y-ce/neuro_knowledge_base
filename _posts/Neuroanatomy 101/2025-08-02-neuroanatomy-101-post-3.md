@@ -23,14 +23,12 @@ Meanwhile, other glial cells play important roles not only in the regulation and
 | :---            |:----   |
 | Oligodendrocyte |•	Myelination |
 |                 |•	Arise from the immature oligodendrocyte progenitor cell (OPC) |
-| :---            |:----   |
 | Astrocyte       |•	Maintenance of the blood-brain and blood-CSF barriers |
 |                 |•	Control of extracellular ionic gradient |
 |                 |•	Mediation of perivascular CSF flow dynamics |
 |                 |•	Regulation of cerebral blood flow |
 |                 |•	Provide metabolic support to neurons |
 |                 |•	Regulation of synaptic transmission |
-| :---            |:----   |
 | Microglia       |•	Innate immunity of the CNS |
 |                 |•	Myelin maintenance (particularly in situations of injury-repair) |
 
@@ -68,9 +66,7 @@ The three most basic tracts are detailed in the following table.
 | :---                     |:----   |:--- |
 | Spinothalamic Tract      | Carries sensory information for <b> pain and temperature </b>.   |At the spinal cord level |
 |                          |*trick: spinothalamic starts with an ‘s’ for ‘suffering’ |                         |
-| :---                     |:----   |:--- |
 | Dorsal Column/Medial Lemniscus Pathway | Carries sensory information of <b> vibration and proprioception </b>.        | At the level of the medulla oblongata more  |
-| :---                     |:----   |:--- |
 | Corticospinal Pathway                  | Carries motor information (ie. commands) to the periphery.                   | At the level of the medulla oblongata more  |
 
 *Decussation refers to the point where fibers from one side of the body “cross over” to the other side. 
@@ -96,27 +92,3 @@ The cerebellar peduncles are 3 fiber bundles that connect the cerebellum to diff
 -	The inferior peduncle connects the medulla oblongata and the cerebellum.
 
 ![Image]({{ site.baseurl }}/assets/cerebellar peduncles.png){: width="250" }
-
-<table style="border: 1px solid black; border-collapse: collapse">
-<colgroup>
-<col width="30%" />
-<col width="70%" />
-</colgroup>
-<thead>
-<tr class="header" style="border: 1px solid black; border-collapse: collapse">
-<th style="border: 1px solid black; border-collapse: collapse">Field</th>
-<th style="border: 1px solid black; border-collapse: collapse">Description</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="border: 1px solid black; border-collapse: collapse">First column **fields**</td>
-<td style="border: 1px solid black; border-collapse: collapse">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
-</tr>
-<tr style="border: 1px solid black; border-collapse: collapse">
-<td style="border: 1px solid black; border-collapse: collapse">Second column **fields**</td>
-<td style="border: 1px solid black; border-collapse: collapse">Some more descriptive text.
-</td>
-</tr>
-</tbody>
-</table>
