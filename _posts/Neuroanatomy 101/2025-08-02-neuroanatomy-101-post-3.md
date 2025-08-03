@@ -20,18 +20,18 @@ This function is mediated by myelin, which is produced by oligodendrocytes.
 Meanwhile, other glial cells play important roles not only in the regulation and maintenance of myelin, but also in the preservation of global brain homeostasis.
 
 | White Matter Constituent      | Function | 
-| :---            |    :----:   |
+| :---            |:----   |
 | Oligodendrocyte |•	Myelination |
 |                 |•	Arise from the immature oligodendrocyte progenitor cell (OPC) |
-| :---            |    :----:   |
+| :---            |:----   |
 | Astrocyte       |•	Maintenance of the blood-brain and blood-CSF barriers |
 |                 |•	Control of extracellular ionic gradient |
 |                 |•	Mediation of perivascular CSF flow dynamics |
 |                 |•	Regulation of cerebral blood flow |
 |                 |•	Provide metabolic support to neurons |
 |                 |•	Regulation of synaptic transmission |
-| :---            |    :----:   |
-| Microglia       | •	Innate immunity of the CNS |
+| :---            |:----   |
+| Microglia       |•	Innate immunity of the CNS |
 |                 |•	Myelin maintenance (particularly in situations of injury-repair) |
 
 Myelin is mainly composed of lipids and water. Thus, any lesion involving white matter will reflect significantly in T1 and T2 signals.
