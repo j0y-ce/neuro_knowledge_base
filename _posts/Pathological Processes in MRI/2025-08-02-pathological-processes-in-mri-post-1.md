@@ -53,5 +53,7 @@ If the edema is extensive and bilateral, it might be secondary to posterior reve
 
       Figure 6: Cystic lung metastasis on DWI. Notice how, contrary to the case of cytotoxic edema seen earlier, vasogenic edema does not come with fluid restriction and therefore there is no hyperintensity       on DWI. 
 
+
 More about <a href="https://radiopaedia.org/articles/cytotoxic-cerebral-oedema?lang=us">cytotoxic edema</a>.
+
 More about <a href="https://radiopaedia.org/articles/vasogenic-cerebral-edema-1">vasogenic edema</a>.
