@@ -10,7 +10,7 @@ short-description:
 -----
 Before we begin talking about basic neuroanatomy or neuroimaging, we must first introduce some terms that are frequently used to describe orientation or location in the brain.
 
-<b> Major Axes <?b>
+<b> Major Axes </b>
 
 Often, in anatomy, locations of structures are described with “anterior”, “posterior”, “superior” and “inferior” in reference to the laymen terms of “front”, “back”,  “up” and “down”, respectively.
 
