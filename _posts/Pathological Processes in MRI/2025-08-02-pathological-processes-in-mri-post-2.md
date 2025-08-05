@@ -31,12 +31,25 @@ If the infarct is located near the ventricles or the cortex, FLAIR (dark CSF) ma
   In acute ischemic strokes, changes on imaging usually take time to appear.
   Although MRI is not the imaging modality of choice for acute stroke in most Canadian centers (lack of availability and longer time to scan), it can rapidly and accurately characterize the infarct.
   Cortical edema takes at least 3 hours before it can be seen on T2/FLAIR (hyperintense with cortical thickening and loss of grey-white junction differentiation).
-  However, it only takes between 10 to 60 minutes for and acute MCA infarct to be seen on DWI. 
+  However, it only takes between 10 to 60 minutes for and acute MCA infarct to be seen on DWI.
 
+  ![Image]({{ site.baseurl }}/assets/Edema-2.png){: width="250" }
+
+  Figure 1: Right MCA stroke on FLAIR. Blue arrow illustrating hyperintense area in the cortex consistent with cytotoxic edema.
+
+  ![Image]({{ site.baseurl }}/assets/Edema-3.png){: width="250" }
+
+  Figure 2: Right MCA stroke on DWI. Area of fluid restriction appears hyperintense on scan.
 
 - Global cerebral hypoperfusion
   
   Global cerebral hypoperfusion occurs when there is an overall decrease in cerebral perfusion, which can result from systemic causes such as hypotension and shock or it can be a result of increased   intracranial pressure (increased ICP decreases cerebral perfusion pressure).
   Often times, systemic causes of hypoperfusion are worsened by severe stenosis or atherosclerotic occlusion of the carotid or major cerebral arteries to cause ischemia.
   In these scenarios, the first areas of the brain to suffer from ischemia will be those furthest away from major arteries.
-  Infarcts of this kind are called watershed or border zone infarcts as they happen on the borders of major vascular territories.
+  Infarcts of this kind are called <u>watershed</u> or <u>border zone infarcts</u> as they happen on the borders of major vascular territories.
+
+  ![Image]({{ site.baseurl }}/assets/Watershed-1.png){: width="800" }
+
+  ![Image]({{ site.baseurl }}/assets/Watershed-2.png){: width="250" }
+
+  ![Image]({{ site.baseurl }}/assets/Watershed-3.png){: width="250" }
