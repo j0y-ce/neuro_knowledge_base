@@ -43,16 +43,15 @@ If the edema is extensive and bilateral, it might be secondary to posterior reve
 
 ![Image]({{ site.baseurl }}/assets/Edema-4.png){: width="250" }
 
-      Figure 4: Cystic lung metastasis on T1 with gadolinium contrast. 
+      Figure 4: Cystic lung metastasis on T1 with gadolinium contrast. Note the homogenous low (fluid-like) intensity of the mass and the hyperintense rim surrounding the mass (ring enhancement).
 
 ![Image]({{ site.baseurl }}/assets/Edema-5.png){: width="250" }
 
-      Figure 5: Right MCA stroke on FLAIR. Blue arrow illustrating hyperintense area in the cortex consistent with cytotoxic edema.
+      Figure 5: Cystic lung metastasis on T2. Note the extensive edema appearing as hyperintense parenchyma surrounding the mass. The cystic mass also appears hyperintense given that it is fluid filled.
 
 ![Image]({{ site.baseurl }}/assets/Edema-6.png){: width="250" }
 
-      Figure 6: Right MCA stroke on DWI. Area of fluid restriction appears hyperintense on scan.
+      Figure 6: Cystic lung metastasis on DWI. Notice how, contrary to the case of cytotoxic edema seen earlier, vasogenic edema does not come with fluid restriction and therefore there is no hyperintensity       on DWI. 
 
-https://radiopaedia.org/articles/cytotoxic-cerebral-oedema?lang=us
-
-
+More about <a href="https://radiopaedia.org/articles/cytotoxic-cerebral-oedema?lang=us">cytotoxic edema</a>.
+More about <a href="https://radiopaedia.org/articles/vasogenic-cerebral-edema-1">vasogenic edema</a>.
