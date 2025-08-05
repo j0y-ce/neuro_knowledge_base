@@ -38,15 +38,5 @@ Finally, T2* is a modified T2 sequence that is able to distinguish microscopic b
 <a href="{{ site.baseurl }}/subcategory-content-1/MRI Sequences- T1">T1</a>
 
 
-
-<a href="{{ site.baseurl }}/content">Link to document inside this website</a>
-
-
-<a href="{{ site.baseurl }}/subcategory-content-1">Link to document inside this website</a>
-
-
-<a href="{{ site.baseurl }}/subcategory-content-1/first-content-post">Link to document inside this website</a>
-
-
 <!-- need to double enter to start new lines -->
 <!-- need to use the site baseurl in the curly brackets to make internal links work seamlessly -->
