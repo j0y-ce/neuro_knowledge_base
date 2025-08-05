@@ -25,6 +25,7 @@ Each thalamus is nestled on each side of the third ventricle.
 ![Image]({{ site.baseurl }}/assets/just thalamus- axial.png){: width="250" }
 
 <b> Hypothalamus </b>
+
 The hypothalamus is a deep brain structure that acts as a control center for the body’s endocrine, autonomic and somatic systems. 
 Some examples of its function includes regulating the concentration of a number of hormones, which then go onto regulate functions like feeding, body temperature, reproduction, growth and development, water balance and more.
 Like its name suggests (“hypo-” meaning “under”/ “inferior”), the hypothalamus is located just below the thalamus. 
