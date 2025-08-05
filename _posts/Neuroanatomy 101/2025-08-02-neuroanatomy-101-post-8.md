@@ -20,26 +20,26 @@ The corpus striatum is structure of the basal ganglia that includes the followin
 
 - Caudate nucleus: The caudate nucleus is a periventricular grey-matter structure divided into the head, the body and the tail. The caudate has a curved (C-like) shape in 3D that follows along the shape of the ventricles. 
 
-![Image]({{ site.baseurl }}/assets/Screenshot 2025-08-04 at 8.46.39 PM.png){: width="250" }
+  ![Image]({{ site.baseurl }}/assets/Screenshot 2025-08-04 at 8.46.39 PM.png){: width="250" }
 
-On coronal and axial sections, the head of the caudate (the biggest and most easily appreciated part) is found immediately lateral to the anterior horn of the lateral ventricle, nestled in the curve. 
+  On coronal and axial sections, the head of the caudate (the biggest and most easily appreciated part) is found immediately lateral to the anterior horn of the lateral ventricle, nestled in the curve. 
 
-![Image]({{ site.baseurl }}/assets/head of caudate- coronal.png){: width="250" }
+  ![Image]({{ site.baseurl }}/assets/head of caudate- coronal.png){: width="250" }
 
-![Image]({{ site.baseurl }}/assets/basal ganglia- axial.png){: width="250" }
+  ![Image]({{ site.baseurl }}/assets/basal ganglia- axial.png){: width="250" }
 
-On sagittal sections, the caudate is not easily appreciated. It cannot be found at the midline since it is a structure nestled on the lateral aspect of each lateral ventricle. 
+  On sagittal sections, the caudate is not easily appreciated. It cannot be found at the midline since it is a structure nestled on the lateral aspect of each lateral ventricle. 
 
 
 - Lenticular nuclei: bilateral grey-matter structures composed by the putamen and the globus pallidus. 
 
-Together, the putamen and globus pallidus form a wedge-like shape on both axial and coronal sections.
+  Together, the putamen and globus pallidus form a wedge-like shape on both axial and coronal sections.
 
-You can think of the lenticular nuclei together as a pizza-slice: the putamen is the crust and the globus pallidus is the part with the <u>pall</u>-atable toppings!
+  You can think of the lenticular nuclei together as a pizza-slice: the putamen is the crust and the globus pallidus is the part with the <u>pall</u>-atable toppings!
 
-![Image]({{ site.baseurl }}/assets/Screenshot 2025-08-04 at 8.57.13 PM.png){: width="250" }
+  ![Image]({{ site.baseurl }}/assets/Screenshot 2025-08-04 at 8.57.13 PM.png){: width="250" }
 
-The putamen and globus pallidus are separated from the thalamus by the internal capsule (a highway of white matter tracts traveling between the cortex and the brainstem) and from the insular cortex by the external capsule.
+  The putamen and globus pallidus are separated from the thalamus by the internal capsule (a highway of white matter tracts traveling between the cortex and the brainstem) and from the insular cortex by the   external capsule.
 
 <b> Subthalamic nucleus </b> 
 As per its name, the subthalamic nuclei are bilateral grey-matter structures located underneath each thalamus. 
