@@ -19,6 +19,7 @@ In general, ischemia causes <a href="{{ site.baseurl }}/subcategory-content-4/fi
 If the infarct is located near the ventricles or the cortex, FLAIR (dark CSF) may be favoured over T2 (hyperintense CSF), because it allows better contrast between CSF and the lesion. 
 
 - Ischemic stroke
+  
 
   Ischemic strokes make up around 90% of all strokes and are usually caused by sudden vascular occlusions secondary to thromboemboli.
   Patients suffering from ischemic stroke usually present with focal neurological deficits.
@@ -42,6 +43,7 @@ If the infarct is located near the ventricles or the cortex, FLAIR (dark CSF) ma
   Figure 2: Right MCA stroke on DWI. Area of fluid restriction appears hyperintense on scan.
 
 - Global cerebral hypoperfusion
+
   
   Global cerebral hypoperfusion occurs when there is an overall decrease in cerebral perfusion, which can result from systemic causes such as hypotension and shock or it can be a result of increased   intracranial pressure (increased ICP decreases cerebral perfusion pressure).
   Often times, systemic causes of hypoperfusion are worsened by severe stenosis or atherosclerotic occlusion of the carotid or major cerebral arteries to cause ischemia.
