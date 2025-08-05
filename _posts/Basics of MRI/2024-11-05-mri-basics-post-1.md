@@ -23,7 +23,9 @@ For CNS structures, white matter has a higher signal intensity than grey matter.
 
 
 T1-weighted MRIs also serve as the basis for contrast-enhanced MRI.
+
 Most contrast agents used in MRI are gadolinium-based and can be used to appreciate vessel structures, tumor location, areas of inflammation/infection, and more. The contrast is injected intravenously and make vessels (consequently, areas of higher perfusion) appear more hyperintense.
+
 A modified T1 sequence can be performed to decrease the signal intensity of ordinarily hyperintense fat. This is called ‘fat suppression’ and is frequently performed in conjunction to gadolinium enhancement in order to make the contrast-enhanced structures easier to appreciate.
 
 
