@@ -25,7 +25,7 @@ If the infarct is located near the ventricles or the cortex, FLAIR (dark CSF) ma
   Initial workup involves a non-contrast CT of the head—which could look completely normal if the infarct is less than 3 hours old! Followed immediately by a CTA to assess the vessels.
   
 
-    Clinical tidbit: The purpose of the initial non-contrast CT is to rule out hemorrhage, which will guide management by allowing doctors to prescribe thrombolytic therapy.
+        Clinical tidbit: The purpose of the initial non-contrast CT is to rule out hemorrhage, which will guide management by allowing doctors to prescribe thrombolytic therapy.
 
 
   In acute ischemic strokes, changes on imaging usually take time to appear.
