@@ -31,7 +31,7 @@ The corpus striatum is structure of the basal ganglia that includes the followin
   On sagittal sections, the caudate is not easily appreciated. It cannot be found at the midline since it is a structure nestled on the lateral aspect of each lateral ventricle. 
 
 
-- <u> Lenticular nuclei </u>: bilateral grey-matter structures composed by the putamen and the globus pallidus. 
+- <u>Lenticular nuclei </u>: bilateral grey-matter structures composed by the putamen and the globus pallidus. 
 
   Together, the putamen and globus pallidus form a wedge-like shape on both axial and coronal sections.
 
