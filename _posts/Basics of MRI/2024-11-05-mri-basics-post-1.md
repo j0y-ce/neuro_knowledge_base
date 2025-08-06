@@ -46,7 +46,7 @@ A modified T1 sequence can be performed to decrease the signal intensity of ordi
 <a href="{{ site.baseurl }}/content">Back to Content</a>
 
 
-<a href="{{ site.baseurl }}/subcategory-content-1">Back to MRI Basics</a> #link doesn't work
+<a href="{{ site.baseurl }}/subcategory-content-1">Back to MRI Basics</a>
 
 
 
