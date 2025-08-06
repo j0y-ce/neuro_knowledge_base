@@ -49,7 +49,7 @@ Eventually, after a few weeks, hemosiderin and ferritin deposits form in the loc
 
 Summary Table:
 
-![Image]({{ site.baseurl }}/assets/hemorrhage-1.png){: width="500" }
+![Image]({{ site.baseurl }}/assets/hemorrhage-1.png){: width="1000" }
 
 *This is a simplified representation. In reality, hematomas often have heterogenous appearances which reflect the different ages of the blood within a hematoma that is transitioning between acute, subacute and chronic phases.
 
