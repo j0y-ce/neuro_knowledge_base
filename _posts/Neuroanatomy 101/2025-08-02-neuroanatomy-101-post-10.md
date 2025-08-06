@@ -63,6 +63,22 @@ The Middle Cerebral artery (MCA) supplies the lateral areas of both cerebral hem
 Branches from the MCA, often referred to as Lacunar or Penetrating arteries, travel deep inside the brain to feed the basal ganglia. 
 Finally, the Posterior Cerebral artery (PCA) supplies the the posterior midline structures and the Occipital lobe.
 
-![Image]({{ site.baseurl }}/assets/perfusion map.png){: width="250" }
+![Image]({{ site.baseurl }}/assets/perfusion map.png){: width="500" }
 
+
+<b> Venous Drainage </b>
+
+Venous outflow doesn't follow arterial supply in the brain. Venous blood is drained in parallel by the superficial and deep systems; the superficial system is largely responsible for draining the cerebral cortex, whereas the deep venous system drains blood from the deep white matter and deep brain nuclei (eg. basal ganglia, thalamus). The deep venous system centers around the <u>great cerebral vein</u> (aka. the vein of Galen), which is an important landmark best appreciated on a mid-sagittal view.
+
+![Image]({{ site.baseurl }}/assets/galen.png){: width="500" }
+
+From these veins, venous blood is eventually drained into the <u>dural venous sinuses</u>. 
+
+These sinuses are pools of venous blood that are contained between the periosteal and meningeal layers of the dura mater- they receive all the venous drainage from the brain, but also get tributaries from the facial and scalp veins. The sinuses converge at the <u>confluence of sinuses</u> located in the occiput, before all eventually draining into the <u>internal jugular vein</u>.
+
+Here is an image of the dural venous sinuses:
+
+![Image]({{ site.baseurl }}/assets/venous sinus.png){: width="500" }
+
+Notice how, from the confluence of sinuses, venous blood follows the transverse and sigmoid sinuses into the internal jugular veins.
 
