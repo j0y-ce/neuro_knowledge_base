@@ -37,7 +37,7 @@ For follow-up imaging, the same sequences are used minus the contrast, unless th
 Different demyelinating disease distinguish themselves from the pattern and distribution of the white matter lesions through the CNS, as well as clinical history, symptoms on presentation and genetic patterns.
 
 For instance, MS lesions are typically round or ovoid in shape and should generally be >3mm from their long axis. 
-They are usually located in the periventricular, juxtacortical/cortical and infratentorial regions as well as the spinal cord. If you want to know more about MS on imaging, <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6598631/#sec7">thise</a> is a great resource.
+They are usually located in the periventricular, juxtacortical/cortical and infratentorial regions as well as the spinal cord. If you want to know more about MS on imaging, <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6598631/#sec7">this</a> is a great resource.
 
 Here are some examples of typical multiple sclerosis lesions:
 
