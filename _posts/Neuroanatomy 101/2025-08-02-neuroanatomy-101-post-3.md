@@ -19,18 +19,9 @@ The primary function of white matter is to ensure the adequate insulation of axo
 This function is mediated by myelin, which is produced by oligodendrocytes. 
 Meanwhile, other glial cells play important roles not only in the regulation and maintenance of myelin, but also in the preservation of global brain homeostasis.
 
-| White Matter Constituent      | Function | 
-| :---            |:----   |
-| Oligodendrocyte |•	Myelination |
-|                 |•	Arise from the immature oligodendrocyte progenitor cell (OPC) |
-| Astrocyte       |•	Maintenance of the blood-brain and blood-CSF barriers |
-|                 |•	Control of extracellular ionic gradient |
-|                 |•	Mediation of perivascular CSF flow dynamics |
-|                 |•	Regulation of cerebral blood flow |
-|                 |•	Provide metabolic support to neurons |
-|                 |•	Regulation of synaptic transmission |
-| Microglia       |•	Innate immunity of the CNS |
-|                 |•	Myelin maintenance (particularly in situations of injury-repair) |
+
+![Image]({{ site.baseurl }}/assets/WM-1.png){: width="1000" }
+
 
 Myelin is mainly composed of lipids and water. Thus, any lesion involving white matter will reflect significantly in T1 and T2 signals.
 
@@ -40,7 +31,7 @@ As you can imagine, a lot of information needs to be shuttled between the cortex
 Starting from the cortex and moving down, the first major white matter structure we encounter is called the <u> corona radiata </u>. 
 Spreading out to look like a fan or a sunburst, the corona radiata consists of axonal fibers jutting into and coming out of the cortex.
 
-![Image]({{ site.baseurl }}/assets/corona radiata.png){: width="250" }
+![Image]({{ site.baseurl }}/assets/corona radiata.png){: width="500" }
 
 The corona radiata continues down and coalesces into the <u> internal capsule </u>. 
 The internal capsule is shaped like an ‘X’ on axial, and contains sensory and motor, as well as afferent and efferent fibers travelling between the spinal cord and the cortex. 
@@ -51,7 +42,7 @@ The internal capsule is subdivided into different sections.
 -	The genu: the inflexion point of the internal capsule, this part carries a lot of motor fibers (read more on the corticobulbar tract if you’re interested!)
 -	The posterior limb: located posteriorly, this part of the internal capsule carries motor fibers but is also responsible for carrying sensory information.
 
-![Image]({{ site.baseurl }}/assets/internal & external capsules- axial.png){: width="250" }
+![Image]({{ site.baseurl }}/assets/internal & external capsules- axial.png){: width="500" }
 
 The fibers in the internal capsule continue down and enter the brainstem as the <u> cerebral peduncles </u>. 
 
@@ -62,12 +53,9 @@ These pathways are made up of a relay of neurons which synapse on each other alo
 
 The three most basic tracts are detailed in the following table.
 
-| <b> Pathway </b>         | <b> Function </b>                                                | <b> Decussation* </b>   |
-| :---                     |:----   |:--- |
-| Spinothalamic Tract      | Carries sensory information for <b> pain and temperature </b>.   |At the spinal cord level |
-|                          |*trick: spinothalamic starts with an ‘s’ for ‘suffering’ |                         |
-| Dorsal Column/Medial Lemniscus Pathway | Carries sensory information of <b> vibration and proprioception </b>.        | At the level of the medulla oblongata more  |
-| Corticospinal Pathway                  | Carries motor information (ie. commands) to the periphery.                   | At the level of the medulla oblongata more  |
+
+![Image]({{ site.baseurl }}/assets/WM-2.png){: width="1000" }
+
 
 *Decussation refers to the point where fibers from one side of the body “cross over” to the other side. 
 Many tracts decussate on their way from the brain to the periphery or vice-versa, creating the phenomenon where many neurological functions are governed by the opposite hemisphere. 
