@@ -46,6 +46,15 @@ By days 3-7, the hematoma will begin to appear hyperintense on T1 while remainin
 After 7 days, the hematoma will be hyperintense on T1, T2 and FLAIR.
 Eventually, after a few weeks, hemosiderin and ferritin deposits form in the location of the bleed and remain for many years. These appear hypointense on T1, T2, FLAIR and T2* sequences.
 
+
 Summary Table:
 
 ![Image]({{ site.baseurl }}/assets/hemorrhage-1.png){: width="500" }
+
+*This is a simplified representation. In reality, hematomas often have heterogenous appearances which reflect the different ages of the blood within a hematoma that is transitioning between acute, subacute and chronic phases.
+
+      Clinical Nugget: The most important risk factor for a spontaneous intracerebral hemorrhage is <u> hypertension </u>. Hypertensive bleeds occur most often in deep brain areas, such as the basal ganglia and the thalamus (lacunar bleed), but can also happen on the pons, the dentate nuclei and the cerebral hemispheres. 
+      Other common causes of spontaneous intracranial bleeds are ruptured aneurysms, vascular malformations, vasculitis, venous or venous sinus thrombosis, tumors and <u> anticoagulation </u>. In the last case, the hemorrhage can occur in very complex and unpredictable patterns.
+
+
+<a href="https://radiopaedia.org/cases/hyperacute-intracerebral-haemorrhage-on-mri-and-ct">Here</a> and <a href="https://radiopaedia.org/cases/early-and-late-subacute-intracerebral-haemorrhage-mri-1">here</a> are some cases for extra study.
