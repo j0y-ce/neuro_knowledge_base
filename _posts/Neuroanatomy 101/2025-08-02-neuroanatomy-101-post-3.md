@@ -70,7 +70,7 @@ The <u> optic radiations </u> are white matter tracts that carry visual informat
 The optic radiations are impressive 3D structures spanning nearly the whole posterior half of the brain. 
 Different areas of the optic radiations carries visual information from have different parts of our visual field.
 
-![Image]({{ site.baseurl }}/assets/optic radiations.png){: width="250" }
+![Image]({{ site.baseurl }}/assets/optic radiations.png){: width="500" }
 
 <b> Cerebellar peduncles </b>
 
@@ -79,4 +79,4 @@ The cerebellar peduncles are 3 fiber bundles that connect the cerebellum to diff
 -	The middle peduncle connects the cerebellum and the pons and consists mainly of afferent fibers transporting information to the cerebellum from outside the CNS.
 -	The inferior peduncle connects the medulla oblongata and the cerebellum.
 
-![Image]({{ site.baseurl }}/assets/cerebellar peduncles.png){: width="250" }
+![Image]({{ site.baseurl }}/assets/cerebellar peduncles.png){: width="500" }
