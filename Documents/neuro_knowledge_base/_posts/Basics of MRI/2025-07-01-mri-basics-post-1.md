@@ -4,7 +4,7 @@ title: "MRI Sequences- T1"
 date: 2025-07-01 08:44:38 -0400
 category: subcategory-content-1
 author: joyce
-short-description: Introduction to T1 Sequences
+short-description: 
 ---
 
 -----
