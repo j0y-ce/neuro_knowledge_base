@@ -21,9 +21,9 @@ Image test 2
 
 ![Image]({{ site.baseurl }}/assets/whitelab_logo.jpg){: width="100%" }
 
-Image test 3
+<!--Image test 3-->
 
-![Image]({{ site.baseurl }}/assets/whitelab_logo.jpg){: height="auto" }
+<!--![Image]({{ site.baseurl }}/assets/whitelab_logo.jpg){: height="auto" }-->
 
 
 <a href="{{ site.baseurl }}/about">Link to document inside this website</a>
