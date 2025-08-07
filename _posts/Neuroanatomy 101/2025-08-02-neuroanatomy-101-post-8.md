@@ -18,7 +18,8 @@ The corpus striatum is then organized into the caudate nucleus and the lenticula
 <b>Corpus striatum </b>
 The corpus striatum is structure of the basal ganglia that includes the following components:
 
-- <u>Caudate nucleus</u>: The caudate nucleus is a periventricular grey-matter structure divided into the head, the body and the tail. The caudate has a curved (C-like) shape in 3D that follows along the shape of the ventricles. 
+- <u>Caudate nucleus</u>
+    * The caudate nucleus is a periventricular grey-matter structure divided into the head, the body and the tail. The caudate has a curved (C-like) shape in 3D that follows along the shape of the ventricles.
 
   ![Image]({{ site.baseurl }}/assets/Screenshot 2025-08-04 at 8.46.39 PM.png){: width="250" }
 
@@ -31,7 +32,8 @@ The corpus striatum is structure of the basal ganglia that includes the followin
   On sagittal sections, the caudate is not easily appreciated. It cannot be found at the midline since it is a structure nestled on the lateral aspect of each lateral ventricle.
 
 
-- <u>Lenticular nuclei </u>: bilateral grey-matter structures composed by the putamen and the globus pallidus.
+- <u>Lenticular nuclei </u>
+    * Bilateral grey-matter structures composed by the putamen and the globus pallidus.
 
   Together, the putamen and globus pallidus form a wedge-like shape on both axial and coronal sections.
 
