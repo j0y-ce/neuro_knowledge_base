@@ -37,7 +37,7 @@ A modified T1 sequence can be performed to decrease the signal intensity of ordi
 <a href="https://radiopaedia.org/articles/hyperintense-on-t1-weighted-images-mnemonic-1?lang=us">Mnemonics for what is hyperintense on T1</a>
 
 
-<a href="https://radiopaedia.org/articles/t1-weighted-image?lang=us">Resource</a>
+<a href="https://radiopaedia.org/articles/t1-weighted-image?lang=us">Extra learning resource</a>
 
 
 
