@@ -4,7 +4,7 @@ title: "MRI Sequences- T2"
 date: 2024-11-03 08:44:38 -0400
 category: subcategory-content-1
 author: joyce
-short-description: Introduction to T2 Sequence
+short-description: 
 ---
 
 -----
