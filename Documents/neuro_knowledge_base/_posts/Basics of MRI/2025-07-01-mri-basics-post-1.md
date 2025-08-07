@@ -9,11 +9,14 @@ short-description: Introduction to T1 Sequences
 
 -----
 
-Often referred to as the ‘anatomical sequence’, T1-weighted MRIs are thought to most closely resemble macroscopic (dissection) views of normal anatomy. 
+Often referred to as the ‘anatomical sequence’, T1-weighted MRIs are thought to most closely resemble macroscopic (dissection) views of normal anatomy.
 In T1, signal intensity goes from:
-    • Fat: high signal intensity
-    • Muscle: intermediate signal intensity
-    • Fluid: low signal intensity
+
+    <ul>
+      <li>Fat: high signal intensity</li>
+      <li>Muscle: intermediate signal intensity</li>
+      <li>Fluid: low signal intensity</li>
+    </ul>
 
 
 
@@ -26,7 +29,7 @@ T1-weighted MRIs also serve as the basis for contrast-enhanced MRI.
 Most contrast agents used in MRI are gadolinium-based and can be used to appreciate vascular structures (most often the vessel wall), tumor location, areas of inflammation/infection, and more. The contrast is injected intravenously and make vessels (consequently, areas of higher perfusion) appear more hyperintense.
 
 
-A modified T1 sequence can be performed to decrease the signal intensity of ordinarily hyperintense fat. This is called ‘fat suppression’ and is frequently performed in conjunction to gadolinium enhancement in order to make the contrast-enhanced structures easier to appreciate. Fat suppression is commonly used in structures whose visualization can be masked by adjacent fat tissue, as is the case in the spinal cord. 
+A modified T1 sequence can be performed to decrease the signal intensity of ordinarily hyperintense fat. This is called ‘fat suppression’ and is frequently performed in conjunction to gadolinium enhancement in order to make the contrast-enhanced structures easier to appreciate. Fat suppression is commonly used in structures whose visualization can be masked by adjacent fat tissue, as is the case in the spinal cord.
 
 <a href="https://radiopaedia.org/articles/hyperintense-on-t1-weighted-images-mnemonic-1?lang=us">Mnemonics for what is hyperintense on T1</a>
 
