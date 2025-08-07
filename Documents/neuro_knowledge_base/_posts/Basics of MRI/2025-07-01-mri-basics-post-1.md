@@ -18,7 +18,9 @@ In T1, signal intensity goes from:
 
 
 
-![Image]({{ site.baseurl }}/assets/T1-density-scale.png){: width="800" }
+![Image]({{ site.baseurl }}/assets/T1-example.png){: width="800" }
+
+</br>
 
 For CNS structures, white matter has a higher signal intensity than grey matter. In other words, grey matter literally looks darker on T1 MR than white matter.
 T1-weighted MRIs also serve as the basis for contrast-enhanced MRI.
