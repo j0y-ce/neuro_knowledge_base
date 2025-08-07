@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MRI Sequences- DWI"
+title: "MRI Terminology"
 date: 2024-11-03 08:44:38 -0400
 category: subcategory-content-1
 author: joyce
