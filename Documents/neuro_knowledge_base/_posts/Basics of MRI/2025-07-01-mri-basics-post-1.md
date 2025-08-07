@@ -12,11 +12,9 @@ short-description: Introduction to T1 Sequences
 Often referred to as the ‘anatomical sequence’, T1-weighted MRIs are thought to most closely resemble macroscopic (dissection) views of normal anatomy.
 In T1, signal intensity goes from:
 
-    <ul>
-      <li>Fat: high signal intensity</li>
-      <li>Muscle: intermediate signal intensity</li>
-      <li>Fluid: low signal intensity</li>
-    </ul>
+- Fat: high signal intensity
+- Muscle: intermediate signal intensity
+- Fluid: low signal intensity
 
 
 
