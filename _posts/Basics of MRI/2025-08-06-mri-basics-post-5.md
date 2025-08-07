@@ -25,4 +25,4 @@ Therefore, it would not be appropriate to say that a lesion is hyperintense with
         Eg.2. The lesion is hyperintense relative to the cerebral white matter. (V)
 
 
-Here are some additional learning resources. 
+<a href="https://radiopaedia.org/articles/mri-2">Here</a> and <a href="https://www.acr.org/-/media/ACR/files/radiology-safety/MR-safety/MRGlossary.pdf">here</a> are some additional learning resources.
