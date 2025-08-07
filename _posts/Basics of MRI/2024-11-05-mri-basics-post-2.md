@@ -26,24 +26,17 @@ Unlike T1, where fluids are hypointense, T2 shows pockets of fluid in bright, hy
 For CNS structures, white matter has a lower signal intensity than grey matter in T2. This is completely opposite from T1!
 Modifications
 Just like T1, fat suppression can be applied to T2 to make fatty tissues look darker (more hypointense). This allows other hyperintense structures on T2, whether normal or pathological, easier to appreciate.
-Similar to fat suppression, fluid suppression is also commonly performed in T2. This type of modified T2 is called a FLAIR (Fluid Attenuated Inversion Recovery) but be careful—only fluid signals from the CSF are attenuated. This means that areas of fluid accumulation within the brain parenchyma (such as edema) will still appear brightly hyperintense. FLAIR is very useful for assessing leptomeningeal diseases and lesions near the ventricles and brain surface because by attenuating the CSF, adjacent hyperintense lesions are unmasked and more easily appreciated.
+Similar to fat suppression, fluid suppression is also commonly performed in T2. 
+
+This type of modified T2 is called a FLAIR (Fluid Attenuated Inversion Recovery) but be careful—only fluid signals from the CSF are attenuated. This means that areas of fluid accumulation within the brain parenchyma (such as edema) will still appear brightly hyperintense. 
+
+FLAIR is very useful for assessing leptomeningeal diseases and lesions near the ventricles and brain surface because by attenuating the CSF, adjacent hyperintense lesions are unmasked and more easily appreciated.
+
 Finally, T2* is a modified T2 sequence that is able to distinguish microscopic blood products or calcium deposits from the small perturbations they cause in the local tissue’s magnetic field. This feature can be exploited in clinical practice to detect pathological processes involving small hemorrhages and calcifications.
 
 
 <a href="{{ site.baseurl }}/subcategory-content-1/MRI Sequences- T1">T1</a>
 
-
-
-<a href="{{ site.baseurl }}/content">Link to document inside this website</a>
-
-
-<a href="{{ site.baseurl }}/subcategory-content-1">Link to document inside this website</a>
-
-
-<a href="{{ site.baseurl }}/subcategory-content-1/first-content-post">Link to document inside this website</a>
-
-
-<a href="https://en.namu.wiki/w/Find%20Love%20or%20Die%20Trying">Link to webpage outside this website</a>
 
 <!-- need to double enter to start new lines -->
 <!-- need to use the site baseurl in the curly brackets to make internal links work seamlessly -->

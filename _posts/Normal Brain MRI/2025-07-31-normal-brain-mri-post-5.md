@@ -51,7 +51,5 @@ A few sections posterior to where the lenticular nuclei come into view, the thal
 
 ![Image]({{ site.baseurl }}/assets/BG-coronal3.png){: width="250" }
 
-As the slices move more posterior, we see the caudate and lenticular nuclei taper and grow smaller while the thalami grow larger.
-
-The substantia nigra are visible as distinct, darker streaks under the thalami and above the midbrain.
+As the slices move more posterior, we see the caudate and lenticular nuclei taper and grow smaller while the thalami grow larger before eventually also tapering away.
 
