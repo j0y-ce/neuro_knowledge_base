@@ -21,10 +21,14 @@ Unlike T1, where fluids are hypointense, T2 shows pockets of fluid in bright, hy
 
 
 
+
 ![Image]({{ site.baseurl }}/assets/T2-density-scale.png){: width="800" }
 
 For CNS structures, white matter has a lower signal intensity than grey matter in T2. This is completely opposite from T1!
-Modifications
+
+
+<b>Modifications </b>
+
 Just like T1, fat suppression can be applied to T2 to make fatty tissues look darker (more hypointense). This allows other hyperintense structures on T2, whether normal or pathological, easier to appreciate.
 Similar to fat suppression, fluid suppression is also commonly performed in T2. 
 
